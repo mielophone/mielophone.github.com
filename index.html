@@ -1,1 +1,325 @@
-Hello thar!
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>Mielophone</title>
+	
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/docs.css">
+	
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body class="docs">
+
+<header>
+	<nav>
+		<h1><a href="/">Mielophone</a></h1>
+		<ul>
+			<li>About</li>
+			<li><a href="http://github.com/mielophone/Mielophone">Source on GitHub</a></li>
+		</ul>
+	</nav>
+</header>
+	
+<article>
+	<h1>Mielophone</h1>
+	
+	<nav>
+		<div>
+			<ul>
+				<li>
+					<a href="#about">About Mielophone</a>
+					<ul>
+						<li class="expandable">
+							<a href="#about-features">Features</a>
+							<ul>
+								<li><a href="#about-search">Search</a></li>
+								<li><a href="#about-play">Play</a></li>
+								<li><a href="#about-download">Download</a></li>
+								<li><a href="#about-share">Share</a></li>
+							</ul>
+						</li>
+						<li><a href="#about-screens">Screenshots</a></li>
+						<li><a href="#about-plugins">Plugins</a></li>
+						<li><a href="#about-involve">Get involved</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#install">Installation</a>
+					<ul>
+						<li class="expandable">
+							<a href="#install-download">Download</a>
+							<ul>
+								<li><a href="#install-win">Windows</a></li>
+								<li><a href="#install-mac">Mac OS X</a></li>
+								<li><a href="#install-linux">Linux</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="#help">Help</a>
+					<ul>
+						<li><a href="#help-faq">FAQ</a></li>
+						<li><a href="#help-contact">Contacts</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#donate">Donate</a>
+					<ul>
+						<li><a href="#donate-paypal">Paypal</a></li>
+						<li><a href="#donate-wm">Webmoney</a></li>
+						<li><a href="#donate-steam">Steam</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	
+	<section id="about">
+		<h2>About Mielophone</h2>
+		
+		<p>
+			Mielophone is a minimalistic application for searching, listening, downloading and discovering new music.
+			It mashes up together databases like <a href="http://musicbrainz.org/">MusicBrainz</a>, 
+			<a href="http://www.last.fm/">Last.FM</a> and <a href="http://www.bbc.co.uk/radio1/">BBCRadio</a> to deliver complete info about songs, 
+			artists and albums.
+			And uses unique plugin system to search for publicly available mp3s and streams for desired songs.
+		</p>
+		
+		<section id="about-features" class="methods">
+			<h3>Features</h3>
+
+			<section id="about-search">
+				<header>
+					<h4>Search</code></h4>
+				</header>
+
+				<p>
+					Search for your favorite artists, albums or songs using up to date crowd-sourced databases.
+					MusicBrainz provide complete and precise discography, Last.FM provides complete info about artists including tags, 
+					similar and related artists as well as ratings, BBCRadio provides top lists.
+				</p>
+			</section>
+
+			<section id="about-play">
+				<header>
+					<h4>Play</code></h4>
+				</header>
+
+				<p>
+					Use integrated player to listen to your favorite music right from the Internet. 
+					Or download mp3s and play with a desktop player of your choice.
+				</p>
+			</section>
+
+			<section id="about-download">
+				<header>
+					<h4>Download</code></h4>
+				</header>
+
+				<p>
+					Powerful integrated download manager will handle both single song and full album downloads.
+				</p>
+			</section>
+
+			<section id="about-share">
+				<header>
+					<h4>Share</code></h4>
+				</header>
+
+				<p>
+					Easily scrobble what you listen using Last.FM.
+					Connect with Facebook to automatically share your listening experience with friends.
+				</p>
+			</section>
+			
+		</section>
+		
+		<section id="about-screens" class="options">
+			<h3>Screenshots</h3>
+			
+			<p>
+				Main principle followed while building Mielophone UI is minimalism in everything.
+			</p>
+			
+			<center>
+				<img width="100%" src="screens/main.png" />
+				<img width="100%" src="screens/artist.png" />
+				<img width="100%" src="screens/album.png" />
+				<img src="screens/player.png" />
+			</center>
+		</section>
+		
+		<section id="about-plugins" class="events">
+			<h3>Plugins</h3>
+			
+			<p>
+				Flexible plugins system allows seamless integration of almost any streaming or mp3 provider into Mielophone.
+				Adding plugin to application is as simple as copying one into "plugins/" folder.
+				Everyone can create a plugin since Mielophone is completely open source (see <a href="#about-involve">Get involved</a> section).
+				Special plugins market are available to simplify plugin discovery process.
+			</p>
+			
+		</section>
+		
+		<section id="about-involve" class="theming">
+			<h3>Get involved</h3>
+			
+			<p>
+				Writing plugins is simple.
+				But this section is not yet ready :D
+				So just contact me if you are interested ;)
+			</p>
+		</section>
+	</section>
+	
+	<section id="install">
+		<h2>Installation</h2>
+		
+		<p>
+			Installation process is simplified to maximum. There's currently two ways of getting the app installed:
+			
+			<ol>
+				<li>Downloading generic AIR package as well as Adobe AIR Runtime and installing them both (requires administrator access)</li>
+				<li>Downloading platform-specific package and installing it in a way common to selected platform (no administrator access required)</li>
+			</ol>
+		</p>
+
+		<section id="install-download" class="methods">
+			<h3>Download</h3>
+			
+			<section id="install-win">
+				<header>
+					<h4>Windows</h4>
+				</header>
+				
+				<p>
+					Download Windows bundle <a href="#">here</a>.
+				</p>
+			</section>
+			
+			<section id="install-mac">
+				<header>
+					<h4>Mac OS X</h4>
+				</header>
+				
+				<p>
+					Download Mac OS X bundle <a href="#">here</a>.
+				</p>
+			</section>
+			
+			<section id="install-linux">
+				<header>
+					<h4>Linux</h4>
+				</header>
+				
+				<p>
+					For Linux users it's a bit trickier.
+					First, you'll need to install Adobe AIR itself. 
+					Latest version available for Linux is AIR 2.6.
+					After installing AIR, grab a generic AIR package of Mielophone <a href="#">here</a>.
+				</p>
+			</section>
+		</section>
+
+	</section>
+	
+	<section id="help">
+		<h2>Help</h2>
+		
+		<p>
+			Some kind of help section. Will be extended with common user questions.
+		</p>
+		
+		<section id="help-faq" class="options">
+			<h3>FAQ</h3>
+			
+			<p>
+				Q: Do I need AIR?<br/>
+				A: If you have Linux, than absolutely yes. If you have Mac or Win, than you can use one of platform-specific bundles.
+			</p>
+		</section>
+		
+		<section id="help-contact" class="theming">
+			<h3>Contacts</h3>
+			
+			<p>
+				You can contact me using email: mielophoneapp at gmail<br/>
+				Or you can use github messaging system.
+				I'll try to answer ASAP.
+				If you have found a bug or want to suggest a feature, please use github issues.
+			</p>
+		</section>
+	</section>
+	
+	<section id="donate">
+		<h2>Donate</h2>
+		
+		<p>
+			If you really like Mielophone, you can give me some cash that I can spend on beer.
+			Or games :3 I really love playing games, guys (though this one can be dangerous, 
+			since I might play all the time and incidentally forget about Mielophone dev :D)
+		</p>
+
+		<section id="donate-paypal" class="methods">
+			<h3>Ways to do this</h3>
+			
+			<section id="donate-show">
+				<header>
+					<h4>Paypal</h4>
+				</header>
+				
+				<p>
+					You can transfer something to this paypal button:
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="YEQDRVPGS5C4G"><input type="image" src="https://www.paypalobjects.com/en_US/DE/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"></form> 
+				</p>
+			</section>
+			
+			<section id="donate-hide">
+				<header>
+					<h4>Webmoney</h4>
+				</header>
+				
+				<p>
+					Just transfer your stuff to one of those number:<br/>
+					WMZ: Z478765042527<br/>
+					WMR: R264535985273
+				</p>
+			</section>
+			
+			<section id="donate-toggle">
+				<header>
+					<h4>Steam</h4>
+				</header>
+				
+				<p>
+					I also really love to play games on Steam.
+					So, you can gift me something there, here's my <a href="http://steamcommunity.com/id/yamalight/">profile</a>. :)
+				</p>
+			</section>
+		</section>
+
+	</section>
+	
+</article>
+
+<div id="sticky-wrapper" class="hidden">
+	<div class="inner">
+		<h2></h2>
+		<h3></h3>
+	</div>
+</div>
+
+<footer>
+	<p>A project of <a href="http://codezen.ru">Codezen</a></p>
+</footer>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.js"></script>
+<script>window.jQuery || document.write('<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.1.min.js">\x3C/script>')</script>
+
+<script src="js/waypoints.min.js"></script>
+<script src="js/docs.js"></script>
+</body>
+</html>
