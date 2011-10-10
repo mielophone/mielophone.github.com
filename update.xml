@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.0.2</versionNumber>
-  <versionLabel>v1.0.1 preview</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_pre-2.air</url>
-  <description><![CDATA[v1.0.1 preview
-  * autoupdate here :D
+  <versionNumber>0.2.0</versionNumber>
+  <versionLabel>v0.2.0</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone.air</url>
+  <description><![CDATA[v0.1.0
+  * first release
   ]]></description>
 </update>
