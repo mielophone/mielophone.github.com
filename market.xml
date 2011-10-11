@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<market>
+	<plugin name="Soundcloud MP3 Search" author="yamalight" url="https://github.com/downloads/mielophone/Mielophone-Soundcloud-Plugin/SoundcloudPlugin.swf" />
+	<plugin name="ZMusic MP3 Search" author="yamalight" url="https://github.com/downloads/mielofan/Mielophone-ZMusic-Plugin/ZMusicPlugin.swf" />
+	<plugin name="Vkontakte API NoLogin MP3 Search" author="yamalight" url="https://github.com/downloads/mielophone/Mielophone-VkontakteNL-Plugin/VkontakteNLPlugin.swf" />
+	<plugin name="Mumburum MP3 Search" author="yamalight" url="https://github.com/downloads/mielofan/Mielophone-Mumburum-Plugin/MumburumPlugin.swf" />
+</market>
