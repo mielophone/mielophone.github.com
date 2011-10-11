@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.1</versionNumber>
-  <versionLabel>v0.1.1</versionLabel>
+  <versionNumber>0.1.2</versionNumber>
+  <versionLabel>v0.1.2</versionLabel>
   <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.1.air</url>
-  <description><![CDATA[v0.1.1
-  * Added Last.FM scrobbling (set up your account in settings)
-  * Added album date display
-  * Artist name in album view is now clickable
-  * Fixed issue with special chars in names
+  <description><![CDATA[v0.1.2
+   * Added way to change playlist behavior in settings
+  * Added global search to main screen
+  * Removed "Download" button to evade further confusion for now
+  * Fixed issue with playlist progression without last.fm auth
   * Fixed minor UI issues
   ]]></description>
 </update>
