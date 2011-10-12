@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.3</versionNumber>
-  <versionLabel>v0.1.3</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.3.air</url>
-  <description><![CDATA[v0.1.3
-  * Market for plugins with 1 additional plugin :D
+  <versionNumber>0.1.4</versionNumber>
+  <versionLabel>v0.1.4</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.4.air</url>
+  <description><![CDATA[v0.1.4
+  * Repeat and shuffle for player  
+  * Tons of bugfixes
   ]]></description>
 </update>
