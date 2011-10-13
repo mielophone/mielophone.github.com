@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.5</versionNumber>
-  <versionLabel>v0.1.5</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.5.air</url>
-  <description><![CDATA[v0.1.5
+  <versionNumber>0.1.6</versionNumber>
+  <versionLabel>v0.1.6</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.6.air</url>
+  <description><![CDATA[v0.1.6
   * Plugins in market now have description
   * Market icon now indicates new available plugins
   * New plugins search algorithm (several times faster)
   * Tons of bugfixes again :D
+  * + NINJAFIX
   ]]></description>
 </update>
