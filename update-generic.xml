@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.7</versionNumber>
-  <versionLabel>v0.1.7</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.7.air</url>
-  <description><![CDATA[v0.1.7
-  * Downloaded plugins no longer removed on update
-  * Added "Play album" button to albums
-  * Added "clear playlist" button
-  * Make empty player prettier 
+  <versionNumber>0.1.8</versionNumber>
+  <versionLabel>v0.1.8</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.8.air</url>
+  <description><![CDATA[v0.1.8
+  * Added simple youtube search
+  * Added tags search
+  * Small bugfixes
   ]]></description>
 </update>
