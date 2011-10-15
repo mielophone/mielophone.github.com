@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.8</versionNumber>
-  <versionLabel>v0.1.8</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.8.air</url>
-  <description><![CDATA[v0.1.8
+  <versionNumber>0.1.9</versionNumber>
+  <versionLabel>v0.1.9</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.9.air</url>
+  <description><![CDATA[v0.1.9
   * Added simple youtube search
   * Added tags search
   * Small bugfixes
+  * Ninja fix of tags
   ]]></description>
 </update>
