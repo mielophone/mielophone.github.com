@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <stations>
+	<group id="byPopularDemand" title="By popuplar demand">
+		<station id="dem021">
+               <title>Станция 2.0</title>
+               <tag></tag>
+               <cover>http://station20.ru/img/logo.gif</cover>
+               <type></type>
+               <web>http://station20.ru/</web>
+               <url>http://station20.ru:8000/station-192</url>
+        </station>
+		<station id="dem020">
+               <title>Urbansoul</title>
+               <tag></tag>
+               <cover>http://www.urbansoul.ru/wp-content/themes/WP%20Contempo/images/urbans.png</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://radio66.ru:8000/119</speed>
+               </speeds>
+               <web>http://www.urbansoul.ru/</web>
+               <url>http://radio66.ru:8000/119</url>
+          </station>
+		<station id="dem001">
+               <title>Воруй Убивай</title>
+               <tag></tag>
+               <cover></cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://upyachka.ru:8000/stealkill</speed>
+               </speeds>
+               <web>http://upyachka.ru</web>
+               <url>http://upyachka.ru:8000/stealkill</url>
+          </station>
+          <station id="dem002">
+               <title>KCRW</title>
+               <tag></tag>
+               <cover>http://userserve-ak.last.fm/serve/252/519676.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://205.188.234.2:80/stream/1045/;stream.nsv</speed>
+               </speeds>
+               <web>www.kcrw.com</web>
+               <url>http://205.188.234.2:80/stream/1045/;stream.nsv</url>
+          </station>
+          <station id="dem003">
+               <title>Soma FM - Beat Blender</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/blender.gif</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://voxsc1.somafm.com:8388/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8386/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://voxsc1.somafm.com:8388/;stream.nsv</url>
+          </station>
+          <station id="dem004">
+               <title>Soma FM - cliqhop idm</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/cliqhop.gif</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://207.200.96.231:8014/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8080/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://207.200.96.231:8014/;stream.nsv</url>
+          </station>
+          <station id="dem005">
+               <title>Soma FM - Doomed</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/doomed.gif</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://voxsc1.somafm.com:8300/;stream.nsv</speed>
+                    <speed type="56">http://voxsc1.somafm.com:8302/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8304/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://voxsc1.somafm.com:8300/;stream.nsv</url>
+          </station>
+		  <station id="dem006">
+               <title>Soma FM - Groove Salad</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/GrooveSaladBox.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://streamer-ntc-aa03.somafm.com:80/stream/1018/;stream.nsv</speed>
+                    <speed type="56">http://207.200.96.226:8000/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8004/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://streamer-ntc-aa03.somafm.com:80/stream/1018/;stream.nsv</url>
+          </station>
+		  <station id="dem007">
+               <title>Soma FM - indie pop rocks</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/indychick.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://streamer-mtc-aa02.somafm.com:80/stream/1073/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8076/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://streamer-mtc-aa02.somafm.com:80/stream/1073/;stream.nsv</url>
+          </station>
+          <station id="dem008">
+               <title>Soma FM - Secret Agent</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/SecretAgentBox.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://streamer-mtc-aa04.somafm.com:80/stream/1021/;stream.nsv</speed>
+                    <speed type="56">http://207.200.96.228:8000/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8082/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://streamer-mtc-aa04.somafm.com:80/stream/1021/;stream.nsv</url>
+          </station>
+          <station id="dem009">
+               <title>Soma FM - Space Station Soma</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/sss.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://205.188.215.227:8014/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8202/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://205.188.215.227:8014/;stream.nsv</url>
+          </station>
+          <station id="dem010">
+               <title>Soma FM - Boot Liquor</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/bootliquor.gif</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://207.200.96.230:8014/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:7002/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://207.200.96.230:8014/;stream.nsv</url>
+          </station>
+          <station id="dem011">
+               <title>Soma FM - Digitalis</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/digitalis120.gif</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://voxsc1.somafm.com:8900/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8902/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://voxsc1.somafm.com:8900/;stream.nsv</url>
+          </station>
+          <station id="dem012">
+               <title>Soma FM - Drone Zone</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/DroneZoneBox.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://streamer-ntc-aa04.somafm.com:80/stream/1032/;stream.nsv</speed>
+                    <speed type="56">http://207.200.96.226:8002/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8008/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://streamer-ntc-aa04.somafm.com:80/stream/1032/;stream.nsv</url>
+          </station>
+          <station id="dem013">
+               <title>Soma FM - Illinois Street Lounge</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/illstreet.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://voxsc1.somafm.com:8500/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8502/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://voxsc1.somafm.com:8500/;stream.nsv</url>
+          </station>
+          <station id="dem014">
+               <title>Soma FM - Lush</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/lush120.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://205.188.214.184:8420/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8802/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://205.188.214.184:8420/;stream.nsv</url>
+          </station>
+          <station id="dem015">
+               <title>Soma FM - Sonic Universe</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/sonicuniverse120.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://205.188.214.184:8440/;stream.nsv</speed>
+                    <speed type="32">http://voxsc1.somafm.com:8602/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://205.188.214.184:8440/;stream.nsv</url>
+          </station>
+          <station id="dem016">
+               <title>Soma FM - Tag's Trip</title>
+               <tag></tag>
+               <cover>http://somafm.com/img/tagstrancefract.jpg</cover>
+               <type></type>
+               <speeds>
+                    <speed type="128">http://205.188.215.230:8012/;stream.nsv</speed>
+                    <speed type="32">http://205.188.214.184:8500/;stream.nsv</speed>
+               </speeds>
+               <web>http://somafm.com/</web>
+               <url>http://205.188.215.230:8012/;stream.nsv</url>
+          </station>
+          <station id="dem017">
+               <title>Radio Stad Den Haag 97.2 FM</title>
+               <tag></tag>
+               <cover></cover>
+               <web>http://www.radiostaddenhaag.nl/</web>
+               <url>http://213.132.182.42:80/;stream.nsv</url>
+               <statusUrl>http://shoutcastinfo.radiostaddenhaag.nl/playlist.asp</statusUrl>
+			   <regExpresion>[\w\s'":.,?!\(\)-]+(&nbsp;){2}==&gt;(&nbsp;){2}[\w\s'":.,?!\(\)-]+</regExpresion>
+          </station>
+          <station id="dem018">
+               <title>Radio Big Beat</title>
+               <tag></tag>
+               <cover>http://www.bigbeats.ru/images/bbr.jpg</cover>
+               <speeds>
+                    <speed type="128">http://radio.bigbeats.ru:9054/;stream.nsv</speed>
+                    <speed type="64">http://radio.bigbeats.ru:9056/;stream.nsv</speed>
+               </speeds>
+               <web>http://www.bigbeats.ru/</web>
+               <url>http://radio.bigbeats.ru:9054/;stream.nsv</url>
+          </station>
+          <station id="dem019">
+               <title>Frisky Radio</title>
+               <tag></tag>
+               <cover>http://www.friskyradio.com/images/site/friskyradio_transff_sm.png</cover>
+               <speeds>
+                    <speed type="128">http://205.188.215.229:8008/;stream.nsv</speed>
+               </speeds>
+               <web>http://www.friskyradio.com/</web>
+               <url>http://205.188.215.229:8008/;stream.nsv</url>
+          </station>
+	</group>	
+ 	<group id="russian" title="Russia">
+ 		<station id="ru044">
+			<title>4duk</title>
+			<tag></tag>
+			<cover>http://4duk.ru/images/logo_small.gif</cover>
+			<type>0</type>
+			<url>http://radio.4duk.ru:80/;stream.nsv</url>
+			<web>http://4duk.ru</web>
+		</station>
+	 	<station id="ru001">
+			<title>Metro</title>
+			<tag>http://ware.catv.ext.ru:8137/radiostudio128.mp3</tag>
+			<cover>http://www.radiometro.ru/images/20185924.jpg</cover>
+			<type>0</type>
+			<url>http://www.surfmusic.de/radio-station/88-3-jia-fm</url>
+			<web></web>
+		</station>
+		<station id="ru043">
+			<title>Betelgeuse</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<web>http://www.radio-betelgeuse.com/</web>
+			<url>http://81.176.237.126/100</url>
+		</station>
+		<station id="ru002">
+			<title>RECORD</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/record.jpg</cover>
+			<type>1</type>
+			<url>http://92.243.90.155:8000/rec128</url>
+			<web></web>
+		</station>
+		<station id="ru041">
+			<title>Record Radio - Pirate Station Radio</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://78.111.92.26:8400/;stream.nsv</url>
+		</station>
+ 		<station id="ru042">
+			<title>Record Radion - Trancemission radio</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://78.111.92.26:8200/;stream.nsv</url>
+		</station>
+		<station id="ru003">
+			<title>Russian radio (Русское радио)</title>
+			<tag></tag>
+			<cover>http://92.243.64.178/images/russian.jpg</cover>
+			<type>1</type>
+			<url>http://92.243.64.178:8080/r64</url>
+			
+		</station>
+		<station id="ru004">
+			<title>Yu FM (Ю FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/ufm.jpg</cover>
+			<type>0</type>
+			<url>http://ware.catv.ext.ru:8000/radioyunost128.mp3</url>
+			<web></web>
+		</station>
+		<station id="ru005">
+			<title>Love (Moscow 106.6 FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/love.jpg</cover>
+			<url>http://stream.loveradio.ru:8000/loveradio_high.mp3</url>
+			<web></web>
+		</station>
+		<station id="ru006">
+			<title>Europa Plus (Moscow 106.2 FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/europa.jpg</cover>
+			<url>http://88.212.197.154:9000/europa64</url>
+			<web>http://www.europaplus.ru/</web>
+			<statusUrl>http://www.europaplus.ru/online/player.php</statusUrl>
+			<regExpresion>[\w\s'":.,?!]+ - [\w\s'":.,?!]+</regExpresion>
+		</station>
+		<station id="ru007">
+			<title>NRJ</title>
+			<tag></tag>
+			<cover>http://92.243.64.178/images/nrj.jpg</cover>
+			<type>0</type>
+			<url>http://92.243.90.155:8000/nrj</url>
+			<web></web>
+		</station>
+		<station id="ru008">
+			<title>Dfm</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/dfm.jpg</cover>
+			<url>http://w02-sw01.akadostream.ru:8000/dinamitfm128.mp3</url>
+			<web></web>
+		</station>
+		<station id="ru009">
+			<title>Megapolis (Мегаполис)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/megapolis.jpg</cover>
+			<type>0</type>
+			<url>http://92.243.64.178:8000/mgps</url>
+			<web></web>
+		</station>
+		<station id="ru010">
+			<title>Nashe radio (Наше радио)</title>
+			<tag></tag>
+			<cover>http://92.243.64.178/images/nashe.jpg</cover>
+			<type>1</type>
+			<speeds>
+				<speed type="192">http://mp3.nashe.ru:80/nashe-192</speed>	
+				<speed type="128">http://mp3.nashe.ru:80/nashe-128</speed>
+				<speed type="96">http://mp3.nashe.ru:80/nashe-96</speed>
+			</speeds>
+			<web>http://nashe.ru/</web>
+			<url>http://mp3.nashe.ru:80/nashe-128</url>
+		</station>
+		<station id="ru011">
+			<title>Monte Carlo</title>
+			<tag> </tag>
+			<cover>http://www.montecarlo.ru/upload/images/radio_top1.jpg</cover>
+			<type>0</type>
+			<url>http://194.154.88.2:8001/rmcspb</url>
+		</station>
+		<station id="ru012">
+			<title>Radio Dacha (Радио Дача)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/dacha.jpg</cover>
+			<type>0</type>
+			<url>http://82.204.217.140:8000/radiodacha_high.mp3</url>
+		</station>
+		<station id="ru013">
+			<title>Ultra</title>
+			<tag></tag>
+			<cover>http://92.243.64.178/images/ultra.jpg</cover>
+			<speeds>
+				<speed type="192">http://mp3.radioultra.ru/ultra-192</speed>
+				<speed type="128">http://mp3.radioultra.ru/ultra-128</speed>
+				<speed type="96">http://mp3.radioultra.ru/ultra-96</speed>
+			</speeds>
+			<web>http://www.radioultra.ru/</web>
+			<url>http://mp3.radioultra.ru/ultra-192</url>
+		</station>
+		<station id="ru014">
+			<title>Roks</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/roks.jpg</cover>
+			<type>0</type>
+			<url>http://213.159.71.19:8000/128.mp3</url>
+		</station>	
+		<station id="ru015">
+			<title>Best FM</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/bestfm.jpg</cover>
+			<type>0</type>
+			<url>http://ware.catv.ext.ru:8140/bestfm128.mp3</url>
+		</station>
+		<station id="ru016">
+			<title>Radio Moscow echo (Эхо Москвы)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/echo.jpg</cover>
+			<type>0</type>
+			<url>http://radio.echo.msk.ru:8000/;stream.nsv</url>
+		</station>
+		<station id="ru017">
+			<title>Dorozhnoe (Дорожное)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/dorozhnoe.jpg</cover>
+			<type>0</type>
+			<url>http://217.170.67.77/dorojnoe</url>
+		</station>
+		<station id="ru018">
+			<title>Shanson (Шансон)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/shanson.jpg</cover>
+			<type>0</type>
+			<url>http://83.222.4.42:8880/;stream.nsv</url>
+		</station>
+		<station id="ru019">
+			<title>Retro FM (Ретро FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/retrofm.jpg</cover>
+			<type>0</type>
+			<url>http://ware.catv.ext.ru:8000/radioretro48.mp3</url>
+		</station>
+		<station id="ru021">
+			<title>Nevskaya volna (Невская волна)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/nevskaya.jpg</cover>
+			<type>0</type>
+			<url>http://ware.catv.ext.ru:8137/radionw128.mp3</url>
+		</station>
+		<station id="ru022">
+			<title>Radio Hit (Радио Хит)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/hit.jpg</cover>
+			<type>0</type>
+			<url>http://217.170.67.77/radiohit</url>
+		</station>
+		<station id="ru023">
+			<title>Eldorado (Эльдорадо)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/eldoradio.jpg</cover>
+			<type>0</type>
+			<url>http://88.212.197.154:9000/eldoradio64</url>
+		</station>
+		<station id="ru024">
+			<title>Radio Vanya (Радио Ваня)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/vanya.jpg</cover>
+			<type>0</type>
+			<url>http://online.radiovanya.ru/radiovanya</url>
+		</station>
+		<station id="ru025">
+			<title>Orfey (Орфей)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/orfey.jpg</cover>
+			<type>0</type>
+			<url>http://w02-sw01.akadostream.ru:8000/orfey128.mp3</url>
+		</station>
+		<station id="ru026">
+			<title>L-RADIO</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/lradio.jpg</cover>
+			<type>0</type>
+			<url>http://77.233.175.58:8000/lradio.stereo.96.mp3</url>
+		</station>
+		<station id="ru027">
+			<title>Keks FM (Кекс FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/keks.jpg</cover>
+			<type>0</type>
+			<url>http://88.212.197.154:9000/keks64</url>
+		</station>
+		<station id="ru039">
+			<title>Radio Sport (Радио Спорт)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/sport.jpg</cover>
+			<type>0</type>
+			<url>http://213.79.118.22:8000/sportfm-128</url>
+		</station>
+		<station id="ru038">
+			<title>Radio Hermitage (Радио Эрмитаж)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/hermitage.jpg</cover>
+			<type>0</type>
+			<web>http://www.rhfm.ru/</web>
+			<speeds>
+				<speed type="64">http://91.190.117.131:8000/64</speed>
+				<speed type="128">http://91.190.117.131:8000/live</speed>
+			</speeds>
+			<url>http://91.190.117.131:8000/live</url>
+		</station>
+		<station id="ru029">
+			<title>Xfm</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/xfm.jpg</cover>
+			<type>0</type>
+			<url>http://82.204.217.140:8000/mradio_high.mp3</url>
+		</station>
+		<station id="ru028">
+			<title>Radio Silver rain (Радио Серебряный дождь)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/silverrain.jpg</cover>
+			<type>0</type>
+			<url>http://195.14.58.6:8000/radio.mp3</url>
+		</station>
+		<station id="ru031">
+			<title>Manhattan 102.5</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/manhattan.jpg</cover>
+			<type>0</type>
+			<url>http://81.30.54.70:8000/manhattan</url>
+		</station>
+		<station id="ru032">
+			<title>Uniton (Юнитон)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/uniton.jpg</cover>
+			<type>0</type>
+			<url>http://w02-sw01.akadostream.ru:8108/uniton128.mp3</url>
+		</station>
+		<station id="ru033">
+			<title>Radio Siberia (Радио Сибирь)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/sibir.jpg</cover>
+			<type>1</type>
+			<url>http://213.183.101.101:8090/modem</url>
+		</station>
+		<station id="ru034">
+			<title>Inter Volna (Интер Волна)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/intervolna.jpg</cover>
+			<type>0</type>
+			<url>http://195.69.218.228:8000/;stream.nsv</url>
+		</station>
+		<station id="ru036">
+			<title>Radio Ok</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/radiook.jpg</cover>
+			<type>0</type>
+			<url>http://78.31.72.218:8000/OKradio128.mp3</url>
+		</station>
+		<station id="ru035">
+			<title>Eco-radio (Эко-радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/ecoradio.jpg</cover>
+			<type>0</type>
+			<url>http://80.64.18.105:8000/;stream.nsv</url>
+		</station>
+		<station id="ru030">
+			<title>Borneo</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/borneo.jpg</cover>
+			<type>0</type>
+			<url>http://91.203.224.6:8888/64</url>
+		</station>
+		<station id="ru040">
+			<title>Govorit Moskva</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/govoritmoskva.jpg</cover>
+			<type>0</type>
+			<url>http://213.79.118.22:8000/gm-fm-128</url>
+		</station>
+	</group>
+	<group id="ua" title="Ukraine">
+		<station id="ua001">
+			<title>DJ FM</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/djfm.jpg</cover>
+			<type>0</type>
+			<url>http://91.202.72.22:8000/djfm</url>
+		</station>
+		<station id="ua002">
+			<title>Kiss FM</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/kissfm.jpg</cover>
+			<type>0</type>
+			<url>http://91.202.72.22:8000/kiss-fm-128</url>
+		</station>
+		<station id="ua003">
+			<title>radio mix</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/radiomix.jpg</cover>
+			<type>0</type>
+			<url>http://212.115.255.5:8000/RadioMIX</url>
+		</station>
+		<station id="ua004">
+			<title>Europa plus (Европа+)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/europaua.jpg</cover>
+			<type>0</type>
+			<url>http://live1.radiogroup.com.ua:8000/europaplus128</url>
+		</station>
+		<station id="ua005">
+			<title>Gala</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/gala.jpg</cover>
+			<type>0</type>
+			<url>http://live.galaradio.com:8000/kiev</url>
+		</station>
+		<station id="ua006">
+			<title>NRJ</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/nrjua.jpg</cover>
+			<type>0</type>
+			<url>http://195.66.153.33:8010/;stream.nsv</url>
+		</station>
+		<station id="ua007">
+			<title>Sharmanka (Шарманка)</title>
+			<tag>http://212.109.32.4/radio-sharmanka32k</tag>
+			<cover>http://92.243.64.178/images/sharmanka.jpg</cover>
+			<type>0</type>
+			<url>http://212.109.32.4/radio-sharmanka32k</url>
+		</station>
+		<station id="ua008">
+			<title>Nashe radio (Наше радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/nasheua.jpg</cover>
+			<type>0</type>
+			<url>http://212.26.129.222:8001/;stream.nsv</url>
+		</station>
+		<station id="ua009">
+			<title>Radio Lux (Радио люкс)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/luxx.jpg</cover>
+			<type>0</type>
+			<url>http://212.26.146.116:8080/luxx128</url>
+		</station>
+		<station id="ua010">
+			<title>Jam FM (Джем FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/jam.jpg</cover>
+			<type>0</type>
+			<url>http://212.40.43.227:8000/jamfm128</url>
+		</station>
+		<station id="ua011">
+			<title>M fm</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/mfm.jpg</cover>
+			<type>0</type>
+			<url>http://212.26.146.116:8080/online128</url>
+		</station>
+		<station id="ua012">
+			<title>Perec (Перец)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/perec.jpg</cover>
+			<type>0</type>
+			<url>http://212.26.146.116:8080/radio-perec</url>
+		</station>
+		<station id="ua013">
+			<title>Hit FM (Хит FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/hitfmua.jpg</cover>
+			<type>0</type>
+			<url>http://91.202.72.22:8000/hit-fm-64</url>
+		</station>
+		<station id="ua014">
+			<title>Retro FM (Ретро FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/retrofmua.jpg</cover>
+			<type>0</type>
+			<url>http://live1.radiogroup.com.ua:8000/retro128</url>
+		</station>
+		<station id="ua015">
+			<title>Melodiya (Мелодия)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/melodiya.jpg</cover>
+			<type>0</type>
+			<url>http://212.26.146.116:8080/radio-melodia</url>
+		</station>
+		<station id="ua016">
+			<title>Russian radio ua (Русское радио (Украина))</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/russkoeua.jpg</cover>
+			<type>0</type>
+			<url>http://91.202.72.22:8000/rusradio-128</url>
+		</station>
+		<station id="ua017">
+			<title>Uh radio (Ух радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/uhradio.jpg</cover>
+			<type>0</type>
+			<url>http://online1.uhradio.com.ua:8000/uhradio</url>
+		</station>
+		<station id="ua018">
+			<title>Radio Kiev (Радио Киев)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/kiev.jpg</cover>
+			<type>0</type>
+			<url>http://194.242.116.210:8000/;stream.nsv</url>
+		</station>
+		<station id="ua019">
+			<title>Radio ONE</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/radioone.jpg</cover>
+			<type>0</type>
+			<url>http://live1.radiogroup.com.ua:8000/radioone128</url>
+		</station>
+		<station id="ua020">
+			<title>Auto radio (Авто радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/avtoradioua.jpg</cover>
+			<type>0</type>
+			<url>http://212.40.43.227:8000/avtoradio128</url>
+		</station>
+		<station id="ua021">
+			<title>Stilnoe FM (Стильное FM)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/stilnoe.jpg</cover>
+			<type>0</type>
+			<url>http://212.109.32.4/radio-stilnoe</url>
+		</station>
+		<station id="ua022">
+			<title>Vzrosloe radio (Взрослое радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/vzrosloe.jpg</cover>
+			<type>0</type>
+			<url>http://live2.radiogroup.com.ua:8000/106fm128</url>
+		</station>
+		<station id="ua023">
+			<title>Molode radio (Молоде радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/molode.jpg</cover>
+			<type>0</type>
+			<url>http://212.109.32.4/radio-molode</url>
+		</station>
+		<station id="ua024">
+			<title>Narodnoe Radio (Народное радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/narodnoe.jpg</cover>
+			<type>0</type>
+			<url>http://62.80.190.247:8001/NRK128</url>
+		</station>
+		<station id="ua025">
+			<title>Music Radio</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/musicradio.jpg</cover>
+			<type>0</type>
+			<url>http://live1.radiogroup.com.ua:8000/musicradio128</url>
+		</station>
+		<station id="ua026">
+			<title>Prosto radio (Просто радио)</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/prosto.jpg</cover>
+			<type>0</type>
+			<url>http://217.20.164.161:8000/prosto.mp3</url>
+			<size>2</size>
+		</station>
+		<station id="ua027">
+			<title>Premier</title>
+			<tag> </tag>
+			<cover>http://92.243.64.178/images/premier.jpg</cover>
+			<type>0</type>
+			<url>http://91.193.68.87:8155/;stream.nsv</url>
+		</station>
+	</group>	
+	<group id="rock" title="Rock">
+		<station id="g7001">
+			<title>Alternative Rock</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.69.42:8002/;stream.nsv</url>
+		</station>
+		<station id="g7002">
+			<title>Idobi (USA)</title>
+			<tag> </tag>
+			<cover>http://www.idobi.com/2006/images/IRsticker.gif</cover>
+			<type>1</type>
+			<url>http://67.159.3.34:80/;stream.nsv</url>
+		</station>
+		<station id="g7003">
+			<title>Channel X</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://72.13.93.117:8070/;stream.nsv</url>
+		</station>
+		<station id="g7004">
+			<title>XRM (USA)</title>
+			<tag> </tag>
+			<cover>http://www.xrmradio.com/images/logo.gif</cover>
+			<type>1</type>
+			<url>http://213.251.181.115:4657/;stream.nsv</url>
+		</station>
+		<station id="g7005">
+			<title>The Planet</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-ntc-aa06.stream.aol.com:80/stream/1030</url>
+		</station>
+		<station id="g7006">
+			<title>Buzz</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-ntc-aa02.stream.aol.com:80/stream/1022</url>
+		</station>
+		<station id="g7007">
+			<title>Paradise</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa02.stream.aol.com:80/stream/1048</url>
+		</station>
+		<station id="g7009">
+			<title>Absolute Radio (UK)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://85.159.184.42:80/;stream.nsv</url>
+		</station>
+		<station id="g7008">
+			<title>Wazee</title>	
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://208.113.210.24:8000/;stream.nsv</url>
+		</station>
+		<station id="g7010">
+			<title>Hifi Punk</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://207.226.88.71:8000/;stream.nsv</url>
+		</station>
+		<station id="g7011">
+			<title>Big R (USA)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://66.90.121.5:10017/;stream.nsv</url>
+		</station>
+		<station id="g7012">
+			<title>WBCN 104.1 (Boston)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://208.80.52.60:80/WBCNFMDIALUPCMP3</url>
+		</station>
+		<station id="g7013">
+			<title>ChroniX Aggression</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa01.stream.aol.com:80/stream/1039</url>
+		</station>
+		<station id="g7014">
+			<title>Musik.Extreme</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-ntc-aa04.stream.aol.com:80/stream/1052</url>
+		</station>
+		<station id="g7015">
+			<title>High Voltage</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://66.220.3.52:8035/;stream.nsv</url>
+		</station>
+		<station id="g7016">
+			<title>Rocky FM (Germany)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://94.228.208.70:8020/;stream.nsv</url>
+		</station>
+		<station id="g7017">
+			<title>Play Rock UK</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://87.117.200.137:80/;stream.nsv</url>
+		</station>
+		<station id="g7018">
+			<title>The Eagle</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.155.137.148:8030/;stream.nsv</url>
+		</station>
+		<station id="g7019">
+			<title>Little Radio 87.9 (LA)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://205.188.215.229:8016/;stream.nsv</url>
+		</station>
+		<station id="g7020">
+			<title>1055 Rock (Greece)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://85.17.56.54:8078/;stream.nsv</url>
+		</station>
+		<station id="g7021">
+			<title>CBC 3 (Canada)</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://208.43.0.155:8012/;stream.nsv</url>
+		</station>
+	</group>
+	<group id="anime" title="Anime">
+		<station id="g0001">
+			<title>Kawaii</title>
+			<tag>anime jpop game</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://67.213.222.13:9000/;stream.nsv</url>
+		</station>
+		<station id="g0002">
+			<title>AnimeNfo Radio</title>
+			<tag>Anime jpop jrock game</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://204.15.225.50:8000/;stream.nsv</url>
+		</station>
+		<station id="g0003">
+			<title>Anime Academy</title>
+			<tag>Anime Asain Jpop Kpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://91.121.80.81:8500/;stream.nsv</url>
+		</station>
+		<station id="g0004">
+			<title>AnimeAMAZE</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://64.191.5.133:17026/;stream.nsv</url>
+		</station>
+		<station id="g0005">
+			<title>XAMFM</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://193.239.120.53:9500/;stream.nsv</url>
+		</station>
+		<station id="g0006">
+			<title>Keiichi</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://sc5.myshoutserver.com:8000/;stream.nsv</url>
+		</station>
+		<station id="g0007">
+			<title>Aisuki.fr</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.95.111:8000/;stream.nsv</url>
+		</station>
+		<station id="g0008">
+			<title>Dreamo FM</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://117.16.47.10:8000/;stream.nsv</url>
+		</station>
+		<station id="g0009">
+			<title>Asuka's Anime</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://117.16.47.10:8000/;stream.nsv</url>
+		</station>
+		<station id="g0010">
+			<title>Russian Anime</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://89.108.84.216:8000/;stream.nsv</url>
+		</station>
+		<station id="g0012">
+			<title>JPHiP Radio</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://85.17.226.203:8800/;stream.nsv</url>
+		</station>
+	</group>
+	<group id="classic" title="Classic">
+		<station id="g2001">
+			<title>Play Classical UK</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://87.117.200.139:80/;stream.nsv</url>
+		</station>
+		<station id="g2002">
+			<title>Minnesota Public Radio</title>
+			<tag>Anime jpop jrock game</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://174.36.51.212:10016/;stream.nsv</url>
+		</station>
+		<station id="g2003">
+			<title>Otto's Opera House</title>
+			<tag>Classical</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://64.71.184.99:9020/;stream.nsv</url>
+		</station>
+		<station id="g2004">
+			<title>Solo Piano</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa05.stream.aol.com:80/stream/1004</url>
+		</station>
+		<station id="g2005">
+			<title>Mostly Classical</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-ntc-aa05.stream.aol.com:80/stream/1006</url>
+		</station>
+		<station id="g2006">
+			<title>Adagio.FM</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://209.9.229.203:8080/;stream.nsv</url>
+		</station>
+		<station id="g2007">
+			<title>AVRO Klassiek</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://145.58.33.31:8068/;stream.nsv</url>
+		</station>
+		<station id="g2008">
+			<title>HappyClassic</title>
+			<tag>anime jpop</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://121.141.0.191:8000/;stream.nsv</url>
+		</station>
+		<station id="g2009">
+			<title>Classical Guitar</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://205.188.215.232:8014/;stream.nsv</url>
+		</station>
+		<station id="g2010">
+			<title>WKSU 89.7 (USA)</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://66.225.205.8:8030/;stream.nsv</url>
+		</station>
+		<station id="g2011">
+			<title>WGUC 90.9 (USA)</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://198.234.121.115:80/;stream.nsv</url>
+		</station>
+		<station id="g2012">
+			<title>KBAQ 89.5 (USA)</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://75.102.3.51:80/;stream.nsv</url>
+		</station>
+		<station id="g2013">
+			<title>Radio Muza (Germany)</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://145.58.33.31:8164/;stream.nsv</url>
+		</station>
+		<station id="g2014">
+			<title>KBPS 89.9 (USA)</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://216.218.147.60:8220/;stream.nsv</url>
+		</station>
+		<station id="g2015">
+			<title>Venice Classic</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://66.90.104.245:8012/;stream.nsv</url>
+		</station>
+		<station id="g2016">
+			<title>Piano Perfect</title>
+			<tag>Anime</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.218.147.60:2928/;stream.nsv</url>
+		</station>
+		<station id="g2017">
+			<title>Broadway World</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://72.13.82.11:21688/;stream.nsv</url>
+		</station>
+	</group>
+	<group id="electro" title="Electro">
+		<station id="g3001">
+			<title>French Kiss FM</title>
+			<tag> </tag>
+			<cover>http://www.frenchkissfm.com/images/yootheme/logo.png</cover>
+			<type>1</type>
+			<url>http://94.23.36.140:80/;stream.nsv</url>
+		</station>
+		<station id="g3002">
+			<title>FG DJ RADIO</title>
+			<tag> </tag>
+			<cover>http://www.fgdjradio.com/themes/RFG/images/home/logo_rfg_header.png</cover>
+			<type>1</type>
+			<url>http://78.137.1.209:8000/radiofg</url>
+		</station>
+		<station id="g3003">
+			<title>Seven Skies</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://78.107.188.242:9058/;stream.nsv</url>
+		</station>
+		<station id="g3004">
+			<title>Electro House</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-dtc-aa04.stream.aol.com:80/stream/1025</url>
+		</station>
+		<station id="g3005">
+			<title>Gabber</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://w02-sw01.akadostream.ru:8106/difmgabber96.mp3</url>
+		</station>
+		<station id="g3006">
+			<title>Hardcore</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://94.232.114.240:6074/;stream.nsv</url>
+		</station>
+		<station id="g3007">
+			<title>Progressive</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa03.stream.aol.com:80/stream/1026</url>
+		</station>
+		<station id="g3008">
+			<title>Ambient</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://w02-sw01.akadostream.ru:8106/difmambient96.mp3</url>
+		</station>
+		<station id="g3009">
+			<title>Trance</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-dtc-aa01.stream.aol.com:80/stream/1003</url>
+		</station>
+		<station id="g3010">
+			<title>Vocal Trance</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa06.stream.aol.com:80/stream/1065</url>
+		</station>
+		<station id="g3011">
+			<title>Drum'n'Bass</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://w02-sw01.akadostream.ru:8106/difmdrumnbass96.mp3</url>
+		</station>
+		<station id="g3012">
+			<title>Breaks</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://w02-sw01.akadostream.ru:8106/difmbreaks96.mp3</url>
+		</station>
+		<station id="g3013">
+			<title>Euro Dance</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-dtc-aa05.stream.aol.com:80/stream/1024</url>
+		</station>
+		<station id="g3014">
+			<title>House</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa05.stream.aol.com:80/stream/1007</url>
+		</station>
+		<station id="g3015">
+			<title>DJ Mixes</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.69.43:6104/;stream.nsv</url>
+		</station>
+		<station id="g3016">
+			<title>Techno</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.102.29:7204/;stream.nsv</url>
+		</station>
+		<station id="g3017">
+			<title>Jumpstyle</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://85.12.6.10:8080/;stream.nsv</url>
+		</station>
+		<station id="g3018">
+			<title>Hardstyle</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://85.92.130.71:8088/;stream.nsv</url>
+		</station>
+		<station id="g3019">
+			<title>Goa-Psy Trance</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-dtc-aa04.stream.aol.com:80/stream/1008</url>
+		</station>
+		<station id="g3020">
+			<title>Tribal house</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://94.232.114.240:6274/;stream.nsv</url>
+		</station>
+		<station id="g3021">
+			<title>Soulful house</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://205.188.215.232:8016/;stream.nsv</url>
+		</station>
+		<station id="g3022">
+			<title>Funky house</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.69.42:8000/;stream.nsv</url>
+		</station>
+		<station id="g3023">
+			<title>Minimal</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://91.121.120.47:4100/;stream.nsv</url>
+		</station>
+		<station id="g3024">
+			<title>Future Synthpop</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://94.232.114.240:6234/;stream.nsv</url>
+		</station>
+		<station id="g3025">
+			<title>JungleTrain</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://94.142.240.141:8000/;stream.nsv</url>
+		</station>
+		<station id="g3026">
+			<title>Radio Fresh (Радио Fresh)</title>
+			<tag> </tag>
+			<cover>http://radiofresh.bg/img/logo.jpg</cover>
+			<type>1</type>
+			<url>http://ware.catv.ext.ru:8141/radiofresh128.mp3</url>
+		</station>
+		<station id="g3028">
+			<title>DnB radio</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://91.121.103.148:8000/;stream.nsv</url>
+		</station>
+		<station id="g3029">
+			<title>Synth radio</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://86.62.102.131:8005/live</url>
+		</station>
+		<station id="g3030">
+			<title>8 bit music</title>
+			<tag> </tag>
+			<cover></cover>
+				<type>1</type>
+			<url>http://150.254.88.204:8000/ayland128</url>
+		</station>
+		<station id="g3031">
+			<title>ElectroDanceRadio</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://91.121.123.215:8365/;stream.nsv</url>
+		</station>
+		<station id="g3032">
+			<title>DubStep</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://72.1.140.202:8000/;stream.nsv</url>
+		</station>
+		<station id="g3033">
+			<title>Ibiza Global Radio</title>
+			<tag></tag>
+			<cover>http://img43.imageshack.us/img43/446/ibizaglobalradiologook.jpg</cover>
+			<web>http://www.ibizaglobalradio.com/</web>
+			<url>http://89.238.146.142:7030/;stream.nsv</url>
+		</station>
+		<station id="g3099">
+			<title>Ibiza Sonica Live 95.2 FM</title>
+			<tag></tag>
+			<cover></cover>
+			<web>http://www.ibizasonica.com/</web>
+			<url>http://stream5.wft.es:8026/;stream.nsv</url>
+		</station>
+		<station id="g3034">
+			<title>TechnoBase FM</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://78.159.104.192:80/;stream.nsv</url>
+		</station>
+		<station id="g3035">
+			<title>Cliqhop IDM</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://207.200.96.231:8014/;stream.nsv</url>
+		</station>
+		<station id="g3036">
+			<title>Phatbeats Garage</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://94.229.74.178:8008/;stream.nsv</url>
+		</station>
+		<station id="g3037">
+			<title>ChiptuneRadio</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://83.252.1.124:8000/;stream.nsv</url>
+		</station>
+		<station id="g3038">
+			<title>Dance Hits</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://64.71.144.178:8050/;stream.nsv</url>
+		</station>
+		<station id="g3039">
+			<title>RadioParty</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://91.121.65.172:8000/;stream.nsv</url>
+		</station>
+		<station id="g3040">
+			<title>FTV Radio</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://64.71.144.178:5070/;stream.nsv</url>
+		</station>
+		<station id="g3041">
+			<title>UK Bass Radio</title>
+			<tag> </tag>
+			<cover></cover>	
+			<type>1</type>
+			<url>http://91.121.67.21:8337/;stream.nsv</url>
+		</station>
+		<station id="g3042">
+			<title>Pirate Station</title>
+			<tag> </tag>
+			<cover></cover>	
+			<type>0</type>
+			<url>http://78.111.92.26:8400/;stream.nsv</url>
+		</station>
+		<station id="g3043">
+			<title>Trancemission</title>
+			<tag> </tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://78.111.92.26:8200/;stream.nsv</url>
+		</station>
+	</group>
+	<group id="latino" title="Latino">
+		<station id="g8001">
+			<title>Salsa</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://205.188.215.231:8010/;stream.nsv</url>
+		</station>
+		<station id="g8002">
+			<title>Merengue</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://68.195.3.139:8000/;stream.nsv</url>
+		</station>
+		<station id="g8003">
+			<title>Bachata</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://208.53.158.184:8002/;stream.nsv</url>
+		</station>
+		<station id="g8004">
+			<title>Fidelity 95.7</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://76.73.26.26:8126/;stream.nsv</url>
+		</station>
+		<station id="g8005">
+			<title>Suave</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://173.52.91.213:8010/;stream.nsv</url>
+		</station>
+		<station id="g8006">
+			<title>Tropical 100 Mix</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://173.52.91.213:8006/;stream.nsv</url>
+		</station>
+		<station id="g8007">
+			<title>Latino 99.5 (Spain)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://92.48.107.35:8000/;stream.nsv</url>
+		</station>
+		<station id="g8008">
+			<title>Rumba 99.9 (Peru)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://67.212.166.178:8094/;stream.nsv</url>
+		</station>
+		<station id="g8009">
+			<title>Vallencumbia</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://173.52.94.11:8020/;stream.nsv</url>
+		</station>
+		<station id="g8010">
+			<title>Fuego 101.9</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://201.234.249.35:8001/;stream.nsv</url>
+		</station>
+		<station id="g8011">
+			<title>Tejano FM</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://208.53.138.30:8130/;stream.nsv</url>
+		</station>
+		<station id="g8012">
+			<title>Tango 104.9 (Argentina)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://200.58.116.222:10580/;stream.nsv</url>
+		</station>
+	</group>
+	<group id="retro" title="Retro">
+		<station id="g1101">
+			<title>The 50s, 60s, 70s</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.13.57:7004/;stream.nsv</url>
+		</station>
+		<station id="g1102">
+			<title>All Hit 70s</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-ntc-aa03.stream.aol.com:80/stream/1076</url>
+		</station>
+		<station id="g1103">
+			<title>AWESOME 80'S</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://38.99.95.42:8000/;stream.nsv</url>
+		</station>
+		<station id="g1104">
+			<title>Star 90's</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.155.137.150:8012/;stream.nsv</url>
+		</station>
+		<station id="g1105">
+			<title>The 90's</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.218.159.151:8065/;stream.nsv</url>
+		</station>
+		<station id="g1106">
+			<title>Oldies104</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://205.188.215.228:8010/;stream.nsv</url>
+		</station>
+		<station id="g1107">
+			<title>Good Time Oldies</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.155.137.150:8046/;stream.nsv</url>
+		</station>
+		<station id="g1108">
+			<title>Beatles</title>
+			<tag>style</tag>
+			<cover>http://img523.imageshack.us/img523/9981/pbeatleslogo.jpg</cover>
+			<type>1</type>
+			<url>http://94.23.27.83:8232/;stream.nsv</url>
+			<web>http://www.beatlesradio.com/</web>
+		</station>
+		<station id="g1109">
+			<title>Radio Italia Anni 60</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://89.238.146.146:7980/;stream.nsv</url>
+		</station>
+		<station id="g1110">
+			<title>Radio Magdalena</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://91.121.117.158:8004/;stream.nsv</url>
+		</station>
+		<station id="g1111">
+			<title>Disco Dancer</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://music.sertolovo.ru:8000/retro</url>
+		</station>
+		<station id="g1112">
+			<title>Glam FM (UK)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.66.84.3:5050/;stream.nsv</url>
+		</station>
+		<station id="g1113">
+			<title>Memory Hits</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://87.230.82.13:8590/;stream.nsv</url>
+		</station>
+		<station id="g1114">
+			<title>Romantica FM</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://67.159.45.136:8926/;stream.nsv</url>
+		</station>
+	</group>
+	<group id="universities" title="Universities">
+		<station id="g9007">
+			<title>Fusion HD3 - Utah State University (Utah, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://129.123.106.10:8888/;stream.nsv</url>
+		</station>
+		<station id="g9002">
+			<title>Owl Radio - Florida Atlantic University (Florida, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://131.91.96.33:8000/;stream.nsv</url>
+		</station>
+		<station id="g9013">
+			<title>Campus Lille - University of Lille (Lille, France)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://134.206.9.4:8040/livehigh</url>
+		</station>
+		<station id="g9017">
+			<title>Radio Campus Orleans  (Orleans, France)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://88.191.69.150:8000/stream_rco.mp3</url>
+		</station>
+		<station id="g9018">
+			<title>KSDB 919 - Kansas State University (Kansas, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://129.130.28.240:8005/;stream.nsv</url>
+		</station>
+		<station id="g9014">
+			<title>URN 1350 AM - University of Nottingham (Nottingham, UK)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://live.urn1350.net:8080/urn_high.mp3</url>
+		</station>
+		<station id="g9015">
+			<title>97FM - Eotvos Lorand University (Budapest, Hungary)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://radio.elte.hu:8000/eper128</url>
+		</station>
+		<station id="g9016">
+			<title>1449urb - University of Bath (Bath, UK)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://icecast.urb.bath.ac.uk:8000/urb.mp3</url>
+		</station>
+		<station id="g9003">
+			<title>University of Connecticut, Storrs, CT USA</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://whuscast.whus.uconn.edu:80/highrate</url>
+		</station>
+		<station id="g9004">
+			<title>WNTI 91.9 FM Public Radio from Centenary College</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://69.28.128.148:80/stream/pubint_wnti</url>
+		</station>
+		<station id="g9005">
+			<title>WVYC York College of Pennsylvania</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://192.245.87.103:8000/;stream.nsv</url>
+		</station>
+		<station id="g9006">
+			<title>WPRB 103.3 - Princeton University (New Jersey, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://70.85.166.21:4687/;stream.nsv</url>
+		</station>
+		<station id="g9008">
+			<title>Black Squirrel - Kent State University (Ohio, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://131.123.202.81:8000/;stream.nsv</url>
+		</station>
+		<station id="g9009">
+			<title>KXUA 88.3 - University of Arkansas (Arkansas, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://130.184.196.136:8830/;stream.nsv</url>
+		</station>
+		<station id="g9010">
+			<title>Graceland University Radio KBUZ</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://198.101.34.21:8000/;stream.nsv</url>
+		</station>
+		<station id="g9011">
+			<title>CFUV - University of Victoria</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type><url>http://142.104.140.48:7070/;stream.nsv</url>
+		</station>
+		<station id="g9019">
+			<title>WCUR - West Chester University (Pittsburgh, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://144.26.57.251:8000/;stream.nsv</url>
+		</station>
+		<station id="g9020">
+			<title>WKCR - Columbia University (New York, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://kanga.college.columbia.edu:8000/;stream.nsv</url>
+		</station>
+		<station id="g9021">
+			<title>WKNC 88.1 - North Carolina State University (Raleigh, USA)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://wknc.sma.ncsu.edu:8000/wknchq</url>
+		</station>	
+		<station id="g9012">
+			<title>studiFM (Vienna, Austria)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type><url>http://91.121.103.196:8000/studifm.mp3</url>
+		</station>
+	</group>
+	<group id="jazz" title="Jazz">
+		<station id="jz004">
+			<title>Modern Jazz</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://205.188.215.227:8008/;stream.nsv</url>
+		</station>
+		<station id="jz005">
+			<title>Jazz journal</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://91.121.170.138:8000/jazzjournal</url>
+			<size>2</size>
+		</station>
+		<station id="jz001">
+			<title>Swiss Jazz</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://stream-3.ssatr.ch/rsj/mp3</url>
+			<size>2</size>
+		</station>
+		<station id="jz002">
+			<title>DOLGOFF CAFE Radio</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://80.70.231.195:9060/live.mp3</url>
+			<size>2</size>
+		</station>
+		<station id="jz003">
+			<title>Nullwave Radio</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://nullwave.ru:8000/jazz</url>
+			<size>2</size>
+		</station>
+		<station id="jz006">
+			<title>Sky FM - Piano Jazz</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://88.191.69.43:7814/;stream.nsv</url>
+			<size>2</size>
+		</station>
+		<station id="jz007">
+			<title>Sky FM - Bosa Nova Jazz</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://94.232.114.240:6804/;stream.nsv</url>
+			<size>2</size>
+		</station>
+		<station id="jz008">
+			<title>Sky FM - DaTempo Lounge</title>
+			<tag></tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://88.191.69.69:7000/;stream.nsv</url>
+			<size>2</size>
+		</station>
+	</group>
+	<group id="misc" title="Misc">
+		<station id="g1298">
+			<title>PIG Radio</title>
+			<tag>style</tag>
+			<cover></cover>
+			<web>http://pigradio.com/</web>
+			<url>http://s1.viastreaming.net:7480/;stream.nsv</url>
+		</station>
+		<station id="g1299">
+			<title>Lepro FM</title>
+			<tag>style</tag>
+			<cover>http://img200.imageshack.us/img200/4034/lepraapng.png</cover>
+			<web>http://leprofm.ru/</web>
+			<url>http://leprofm.ru:8000/listen</url>			
+			<statusUrl>http://leprofm.ru/status.php</statusUrl>
+			<regExpresion>[\w %\(\)'".,:]+ - [\w %\(\)'".,:]+</regExpresion>
+		</station>
+		<station id="g1204">
+			<title>Simply Soundtracks</title>
+			<tag>style</tag>
+			<cover></cover>
+			<url>http://94.232.114.240:6774/;stream.nsv</url>
+		</station>
+		<station id="g1205">
+			<title>DisneyWeb</title>
+			<tag>style</tag>
+			<cover></cover>
+			<url>http://89.159.134.112:8000/;stream.nsv</url>
+		</station>
+		<station id="g1206">
+			<title>Fantasy Station</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://88.191.69.10:8003/;stream.nsv</url>
+		</station>
+		<station id="g1207">
+			<title>Kids Public Radio</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://www.kidspublicradio.org:8000/lullaby</url>
+		</station>
+		<station id="g1208">
+			<title>Roots Reggae</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa03.stream.aol.com:80/stream/1017</url>
+		</station>
+		<station id="g1209">
+			<title>Folk</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.127.92.235:8080/;stream.nsv</url>
+		</station>
+		<station id="g1210">
+			<title>Big Blue Swing</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://72.232.180.75:8002/;stream.nsv</url>
+		</station>
+		<station id="g1211">
+			<title>Blues Classics</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://208.53.158.28:11610/;stream.nsv</url>
+		</station>
+		<station id="g1212">
+			<title>Rock-n-Roll FM</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://scfire-mtc-aa01.stream.aol.com:80/stream/1043</url>
+		</station>
+		<station id="g1213">
+			<title>LuxuriaMusic</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://64.62.252.136:3142/;stream.nsv</url>
+		</station>
+		<station id="g1214">
+			<title>Urban Gospel</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://72.13.81.178:7010/;stream.nsv</url>
+		</station>
+		<station id="g1215">
+			<title>Classic Soul</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://216.155.131.180:8052/;stream.nsv</url>
+		</station>
+		<station id="g1216">
+			<title>Fox News</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://69.28.128.148:80/stream/foxnews_live</url>
+		</station>
+		<station id="g1219">
+			<title>Deutsche Welle </title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>0</type>
+			<url>http://c13010-ls.i.core.cdn.streamfarm.net/dwworldlive-live/13010dwrru64.mp3</url>
+		</station>
+		<station id="g1217">
+			<title>Radio GAS (Радио ГАЗ)</title>
+			<tag>style</tag>
+			<cover></cover>
+			<type>1</type>
+			<url>http://89.111.189.3:6220/;stream.nsv</url>
+		</station>
+	</group>
+ </stations>	
