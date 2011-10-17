@@ -483,7 +483,7 @@
                		<title>Fire radio UK</title>
                		<cover></cover>
                		<web>http://www.fireradio.co.uk/</web>
-               		<url>http://wm9.spacialnet.com/fireradio1076?MSWMExt=.asf</url>
+               		<url>http://64.62.227.25:80/fireradio1076</url>
           	</station>
 		<station id="g1207">
 			<title>Kids Public Radio</title>
