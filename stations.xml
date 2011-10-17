@@ -394,126 +394,65 @@
 		</station>
 	</group>
 	<group id="universities" title="Universities">
-		<station id="g9007">
-			<title>Fusion HD3 - Utah State University (Utah, USA)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type><url>http://129.123.106.10:8888/;stream.nsv</url>
-		</station>
 		<station id="g9002">
 			<title>Owl Radio - Florida Atlantic University (Florida, USA)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type><url>http://131.91.96.33:8000/;stream.nsv</url>
-		</station>
-		<station id="g9013">
-			<title>Campus Lille - University of Lille (Lille, France)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>0</type><url>http://134.206.9.4:8040/livehigh</url>
+			<url>http://131.91.96.33:8000/;stream.nsv</url>
 		</station>
 		<station id="g9017">
 			<title>Radio Campus Orleans  (Orleans, France)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type><url>http://88.191.69.150:8000/stream_rco.mp3</url>
-		</station>
-		<station id="g9018">
-			<title>KSDB 919 - Kansas State University (Kansas, USA)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>0</type><url>http://129.130.28.240:8005/;stream.nsv</url>
+			<url>http://88.191.69.150:8000/stream_rco.mp3</url>
 		</station>
 		<station id="g9014">
 			<title>URN 1350 AM - University of Nottingham (Nottingham, UK)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type><url>http://live.urn1350.net:8080/urn_high.mp3</url>
-		</station>
-		<station id="g9015">
-			<title>97FM - Eotvos Lorand University (Budapest, Hungary)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>0</type><url>http://radio.elte.hu:8000/eper128</url>
+			<url>http://live.urn1350.net:8080/urn_high.mp3</url>
 		</station>
 		<station id="g9016">
 			<title>1449urb - University of Bath (Bath, UK)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type><url>http://icecast.urb.bath.ac.uk:8000/urb.mp3</url>
+			<url>http://icecast.urb.bath.ac.uk:8000/urb.mp3</url>
 		</station>
 		<station id="g9003">
 			<title>University of Connecticut, Storrs, CT USA</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://whuscast.whus.uconn.edu:80/highrate</url>
 		</station>
 		<station id="g9004">
 			<title>WNTI 91.9 FM Public Radio from Centenary College</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type><url>http://69.28.128.148:80/stream/pubint_wnti</url>
+			<url>http://69.28.128.148:80/stream/pubint_wnti</url>
 		</station>
 		<station id="g9005">
 			<title>WVYC York College of Pennsylvania</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type><url>http://192.245.87.103:8000/;stream.nsv</url>
-		</station>
-		<station id="g9006">
-			<title>WPRB 103.3 - Princeton University (New Jersey, USA)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type><url>http://70.85.166.21:4687/;stream.nsv</url>
+			<url>http://192.245.87.103:8000/;stream.nsv</url>
 		</station>
 		<station id="g9008">
 			<title>Black Squirrel - Kent State University (Ohio, USA)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type><url>http://131.123.202.81:8000/;stream.nsv</url>
-		</station>
-		<station id="g9009">
-			<title>KXUA 88.3 - University of Arkansas (Arkansas, USA)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type><url>http://130.184.196.136:8830/;stream.nsv</url>
-		</station>
-		<station id="g9010">
-			<title>Graceland University Radio KBUZ</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type><url>http://198.101.34.21:8000/;stream.nsv</url>
+			<url>http://131.123.202.81:8000/;stream.nsv</url>
 		</station>
 		<station id="g9011">
 			<title>CFUV - University of Victoria</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type><url>http://142.104.140.48:7070/;stream.nsv</url>
-		</station>
-		<station id="g9019">
-			<title>WCUR - West Chester University (Pittsburgh, USA)</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>0</type><url>http://144.26.57.251:8000/;stream.nsv</url>
+			<url>http://142.104.140.48:7070/;stream.nsv</url>
 		</station>
 		<station id="g9020">
 			<title>WKCR - Columbia University (New York, USA)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type><url>http://kanga.college.columbia.edu:8000/;stream.nsv</url>
+			<url>http://kanga.college.columbia.edu:8000/;stream.nsv</url>
 		</station>
 		<station id="g9021">
 			<title>WKNC 88.1 - North Carolina State University (Raleigh, USA)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type><url>http://wknc.sma.ncsu.edu:8000/wknchq</url>
+			<url>http://wknc.sma.ncsu.edu:8000/wknchq</url>
 		</station>	
 		<station id="g9012">
 			<title>studiFM (Vienna, Austria)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type><url>http://91.121.103.196:8000/studifm.mp3</url>
+			<url>http://91.121.103.196:8000/studifm.mp3</url>
 		</station>
 	</group>
 	<group id="jazz" title="Jazz">
