@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.9</versionNumber>
-  <versionLabel>v0.1.9</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.9.air</url>
-  <description><![CDATA[v0.1.9
-  * Added simple youtube search
-  * Added tags search
-  * Small bugfixes
-  * Ninja fix of tags
+  <versionNumber>0.1.10</versionNumber>
+  <versionLabel>v0.1.10</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.1.10.air</url>
+  <description><![CDATA[v0.1.10
+  * Added Radio section with lots of Internet radio streams
+  * Added minimize to tray ability
+  * Added context menu with delete command to playlist items
+  * Fixed playback stucks before end of song
   ]]></description>
 </update>
