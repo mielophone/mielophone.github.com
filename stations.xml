@@ -3,244 +3,127 @@
 	<group id="byPopularDemand" title="By popuplar demand">
 		<station id="dem021">
                <title>Станция 2.0</title>
-               <tag></tag>
                <cover>http://station20.ru/img/logo.gif</cover>
-               <type></type>
                <web>http://station20.ru/</web>
                <url>http://station20.ru:8000/station-192</url>
         </station>
 		<station id="dem020">
                <title>Urbansoul</title>
-               <tag></tag>
                <cover>http://www.urbansoul.ru/wp-content/themes/WP%20Contempo/images/urbans.png</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://radio66.ru:8000/119</speed>
-               </speeds>
                <web>http://www.urbansoul.ru/</web>
                <url>http://radio66.ru:8000/119</url>
           </station>
 		<station id="dem001">
                <title>Воруй Убивай</title>
-               <tag></tag>
                <cover></cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://upyachka.ru:8000/stealkill</speed>
-               </speeds>
                <web>http://upyachka.ru</web>
                <url>http://upyachka.ru:8000/stealkill</url>
           </station>
           <station id="dem002">
                <title>KCRW</title>
-               <tag></tag>
                <cover>http://userserve-ak.last.fm/serve/252/519676.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://205.188.234.2:80/stream/1045/;stream.nsv</speed>
-               </speeds>
                <web>www.kcrw.com</web>
                <url>http://205.188.234.2:80/stream/1045/;stream.nsv</url>
           </station>
           <station id="dem003">
                <title>Soma FM - Beat Blender</title>
-               <tag></tag>
                <cover>http://somafm.com/img/blender.gif</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://voxsc1.somafm.com:8388/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8386/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://voxsc1.somafm.com:8388/;stream.nsv</url>
           </station>
           <station id="dem004">
                <title>Soma FM - cliqhop idm</title>
-               <tag></tag>
                <cover>http://somafm.com/img/cliqhop.gif</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://207.200.96.231:8014/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8080/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://207.200.96.231:8014/;stream.nsv</url>
           </station>
           <station id="dem005">
                <title>Soma FM - Doomed</title>
-               <tag></tag>
                <cover>http://somafm.com/img/doomed.gif</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://voxsc1.somafm.com:8300/;stream.nsv</speed>
-                    <speed type="56">http://voxsc1.somafm.com:8302/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8304/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://voxsc1.somafm.com:8300/;stream.nsv</url>
           </station>
 		  <station id="dem006">
                <title>Soma FM - Groove Salad</title>
-               <tag></tag>
                <cover>http://somafm.com/img/GrooveSaladBox.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://streamer-ntc-aa03.somafm.com:80/stream/1018/;stream.nsv</speed>
-                    <speed type="56">http://207.200.96.226:8000/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8004/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://streamer-ntc-aa03.somafm.com:80/stream/1018/;stream.nsv</url>
           </station>
 		  <station id="dem007">
                <title>Soma FM - indie pop rocks</title>
-               <tag></tag>
                <cover>http://somafm.com/img/indychick.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://streamer-mtc-aa02.somafm.com:80/stream/1073/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8076/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://streamer-mtc-aa02.somafm.com:80/stream/1073/;stream.nsv</url>
           </station>
           <station id="dem008">
                <title>Soma FM - Secret Agent</title>
-               <tag></tag>
                <cover>http://somafm.com/img/SecretAgentBox.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://streamer-mtc-aa04.somafm.com:80/stream/1021/;stream.nsv</speed>
-                    <speed type="56">http://207.200.96.228:8000/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8082/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://streamer-mtc-aa04.somafm.com:80/stream/1021/;stream.nsv</url>
           </station>
           <station id="dem009">
                <title>Soma FM - Space Station Soma</title>
-               <tag></tag>
                <cover>http://somafm.com/img/sss.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://205.188.215.227:8014/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8202/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://205.188.215.227:8014/;stream.nsv</url>
           </station>
           <station id="dem010">
                <title>Soma FM - Boot Liquor</title>
-               <tag></tag>
                <cover>http://somafm.com/img/bootliquor.gif</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://207.200.96.230:8014/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:7002/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://207.200.96.230:8014/;stream.nsv</url>
           </station>
           <station id="dem011">
                <title>Soma FM - Digitalis</title>
-               <tag></tag>
                <cover>http://somafm.com/img/digitalis120.gif</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://voxsc1.somafm.com:8900/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8902/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://voxsc1.somafm.com:8900/;stream.nsv</url>
           </station>
           <station id="dem012">
                <title>Soma FM - Drone Zone</title>
-               <tag></tag>
                <cover>http://somafm.com/img/DroneZoneBox.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://streamer-ntc-aa04.somafm.com:80/stream/1032/;stream.nsv</speed>
-                    <speed type="56">http://207.200.96.226:8002/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8008/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://streamer-ntc-aa04.somafm.com:80/stream/1032/;stream.nsv</url>
           </station>
           <station id="dem013">
                <title>Soma FM - Illinois Street Lounge</title>
-               <tag></tag>
                <cover>http://somafm.com/img/illstreet.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://voxsc1.somafm.com:8500/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8502/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://voxsc1.somafm.com:8500/;stream.nsv</url>
           </station>
           <station id="dem014">
                <title>Soma FM - Lush</title>
-               <tag></tag>
                <cover>http://somafm.com/img/lush120.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://205.188.214.184:8420/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8802/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
-               <url>http://205.188.214.184:8420/;stream.nsv</url>
+               <url>http://streamer-ntc-aa01.somafm.com:80/stream/1073</url>
           </station>
           <station id="dem015">
                <title>Soma FM - Sonic Universe</title>
-               <tag></tag>
                <cover>http://somafm.com/img/sonicuniverse120.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://205.188.214.184:8440/;stream.nsv</speed>
-                    <speed type="32">http://voxsc1.somafm.com:8602/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
-               <url>http://205.188.214.184:8440/;stream.nsv</url>
+               <url>http://voxsc1.somafm.com:8600</url>
           </station>
           <station id="dem016">
                <title>Soma FM - Tag's Trip</title>
-               <tag></tag>
                <cover>http://somafm.com/img/tagstrancefract.jpg</cover>
-               <type></type>
-               <speeds>
-                    <speed type="128">http://205.188.215.230:8012/;stream.nsv</speed>
-                    <speed type="32">http://205.188.214.184:8500/;stream.nsv</speed>
-               </speeds>
                <web>http://somafm.com/</web>
                <url>http://205.188.215.230:8012/;stream.nsv</url>
           </station>
           <station id="dem017">
                <title>Radio Stad Den Haag 97.2 FM</title>
-               <tag></tag>
                <cover></cover>
                <web>http://www.radiostaddenhaag.nl/</web>
                <url>http://213.132.182.42:80/;stream.nsv</url>
-               <statusUrl>http://shoutcastinfo.radiostaddenhaag.nl/playlist.asp</statusUrl>
-			   <regExpresion>[\w\s'":.,?!\(\)-]+(&nbsp;){2}==&gt;(&nbsp;){2}[\w\s'":.,?!\(\)-]+</regExpresion>
           </station>
           <station id="dem018">
                <title>Radio Big Beat</title>
-               <tag></tag>
                <cover>http://www.bigbeats.ru/images/bbr.jpg</cover>
-               <speeds>
-                    <speed type="128">http://radio.bigbeats.ru:9054/;stream.nsv</speed>
-                    <speed type="64">http://radio.bigbeats.ru:9056/;stream.nsv</speed>
-               </speeds>
                <web>http://www.bigbeats.ru/</web>
                <url>http://radio.bigbeats.ru:9054/;stream.nsv</url>
           </station>
           <station id="dem019">
                <title>Frisky Radio</title>
-               <tag></tag>
                <cover>http://www.friskyradio.com/images/site/friskyradio_transff_sm.png</cover>
-               <speeds>
-                    <speed type="128">http://205.188.215.229:8008/;stream.nsv</speed>
-               </speeds>
                <web>http://www.friskyradio.com/</web>
                <url>http://205.188.215.229:8008/;stream.nsv</url>
           </station>
