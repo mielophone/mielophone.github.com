@@ -277,306 +277,71 @@
 		</station>
 	</group>
 	<group id="electro" title="Electro">
-		<station id="g3001">
-			<title>French Kiss FM</title>
-			<tag> </tag>
-			<cover>http://www.frenchkissfm.com/images/yootheme/logo.png</cover>
-			<type>1</type>
-			<url>http://94.23.36.140:80/;stream.nsv</url>
-		</station>
 		<station id="g3002">
 			<title>FG DJ RADIO</title>
-			<tag> </tag>
 			<cover>http://www.fgdjradio.com/themes/RFG/images/home/logo_rfg_header.png</cover>
-			<type>1</type>
 			<url>http://78.137.1.209:8000/radiofg</url>
-		</station>
-		<station id="g3003">
-			<title>Seven Skies</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://78.107.188.242:9058/;stream.nsv</url>
 		</station>
 		<station id="g3004">
 			<title>Electro House</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-dtc-aa04.stream.aol.com:80/stream/1025</url>
-		</station>
-		<station id="g3005">
-			<title>Gabber</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://w02-sw01.akadostream.ru:8106/difmgabber96.mp3</url>
-		</station>
-		<station id="g3006">
-			<title>Hardcore</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://94.232.114.240:6074/;stream.nsv</url>
-		</station>
-		<station id="g3007">
-			<title>Progressive</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://scfire-mtc-aa03.stream.aol.com:80/stream/1026</url>
-		</station>
-		<station id="g3008">
-			<title>Ambient</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://w02-sw01.akadostream.ru:8106/difmambient96.mp3</url>
 		</station>
 		<station id="g3009">
 			<title>Trance</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-dtc-aa01.stream.aol.com:80/stream/1003</url>
 		</station>
 		<station id="g3010">
 			<title>Vocal Trance</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-mtc-aa06.stream.aol.com:80/stream/1065</url>
-		</station>
-		<station id="g3011">
-			<title>Drum'n'Bass</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://w02-sw01.akadostream.ru:8106/difmdrumnbass96.mp3</url>
-		</station>
-		<station id="g3012">
-			<title>Breaks</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://w02-sw01.akadostream.ru:8106/difmbreaks96.mp3</url>
 		</station>
 		<station id="g3013">
 			<title>Euro Dance</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-dtc-aa05.stream.aol.com:80/stream/1024</url>
 		</station>
 		<station id="g3014">
 			<title>House</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-mtc-aa05.stream.aol.com:80/stream/1007</url>
-		</station>
-		<station id="g3015">
-			<title>DJ Mixes</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.69.43:6104/;stream.nsv</url>
-		</station>
-		<station id="g3016">
-			<title>Techno</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.102.29:7204/;stream.nsv</url>
-		</station>
-		<station id="g3017">
-			<title>Jumpstyle</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://85.12.6.10:8080/;stream.nsv</url>
-		</station>
-		<station id="g3018">
-			<title>Hardstyle</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://85.92.130.71:8088/;stream.nsv</url>
 		</station>
 		<station id="g3019">
 			<title>Goa-Psy Trance</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-dtc-aa04.stream.aol.com:80/stream/1008</url>
-		</station>
-		<station id="g3020">
-			<title>Tribal house</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://94.232.114.240:6274/;stream.nsv</url>
 		</station>
 		<station id="g3021">
 			<title>Soulful house</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://205.188.215.232:8016/;stream.nsv</url>
-		</station>
-		<station id="g3022">
-			<title>Funky house</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.69.42:8000/;stream.nsv</url>
-		</station>
-		<station id="g3023">
-			<title>Minimal</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://91.121.120.47:4100/;stream.nsv</url>
-		</station>
-		<station id="g3024">
-			<title>Future Synthpop</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://94.232.114.240:6234/;stream.nsv</url>
-		</station>
-		<station id="g3025">
-			<title>JungleTrain</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://94.142.240.141:8000/;stream.nsv</url>
-		</station>
-		<station id="g3026">
-			<title>Radio Fresh (Радио Fresh)</title>
-			<tag> </tag>
-			<cover>http://radiofresh.bg/img/logo.jpg</cover>
-			<type>1</type>
-			<url>http://ware.catv.ext.ru:8141/radiofresh128.mp3</url>
-		</station>
-		<station id="g3028">
-			<title>DnB radio</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://91.121.103.148:8000/;stream.nsv</url>
 		</station>
 		<station id="g3029">
 			<title>Synth radio</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://86.62.102.131:8005/live</url>
-		</station>
-		<station id="g3030">
-			<title>8 bit music</title>
-			<tag> </tag>
-			<cover></cover>
-				<type>1</type>
-			<url>http://150.254.88.204:8000/ayland128</url>
-		</station>
-		<station id="g3031">
-			<title>ElectroDanceRadio</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://91.121.123.215:8365/;stream.nsv</url>
-		</station>
-		<station id="g3032">
-			<title>DubStep</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://72.1.140.202:8000/;stream.nsv</url>
 		</station>
 		<station id="g3033">
 			<title>Ibiza Global Radio</title>
-			<tag></tag>
 			<cover>http://img43.imageshack.us/img43/446/ibizaglobalradiologook.jpg</cover>
 			<web>http://www.ibizaglobalradio.com/</web>
 			<url>http://89.238.146.142:7030/;stream.nsv</url>
 		</station>
-		<station id="g3099">
-			<title>Ibiza Sonica Live 95.2 FM</title>
-			<tag></tag>
-			<cover></cover>
-			<web>http://www.ibizasonica.com/</web>
-			<url>http://stream5.wft.es:8026/;stream.nsv</url>
-		</station>
-		<station id="g3034">
-			<title>TechnoBase FM</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://78.159.104.192:80/;stream.nsv</url>
-		</station>
 		<station id="g3035">
 			<title>Cliqhop IDM</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://207.200.96.231:8014/;stream.nsv</url>
-		</station>
-		<station id="g3036">
-			<title>Phatbeats Garage</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://94.229.74.178:8008/;stream.nsv</url>
-		</station>
-		<station id="g3037">
-			<title>ChiptuneRadio</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://83.252.1.124:8000/;stream.nsv</url>
 		</station>
 		<station id="g3038">
 			<title>Dance Hits</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://64.71.144.178:8050/;stream.nsv</url>
-		</station>
-		<station id="g3039">
-			<title>RadioParty</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://91.121.65.172:8000/;stream.nsv</url>
 		</station>
 		<station id="g3040">
 			<title>FTV Radio</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://64.71.144.178:5070/;stream.nsv</url>
-		</station>
-		<station id="g3041">
-			<title>UK Bass Radio</title>
-			<tag> </tag>
-			<cover></cover>	
-			<type>1</type>
-			<url>http://91.121.67.21:8337/;stream.nsv</url>
-		</station>
-		<station id="g3042">
-			<title>Pirate Station</title>
-			<tag> </tag>
-			<cover></cover>	
-			<type>0</type>
-			<url>http://78.111.92.26:8400/;stream.nsv</url>
-		</station>
-		<station id="g3043">
-			<title>Trancemission</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://78.111.92.26:8200/;stream.nsv</url>
 		</station>
 	</group>
 	<group id="latino" title="Latino">
