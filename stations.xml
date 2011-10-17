@@ -225,80 +225,18 @@
 	<group id="anime" title="Anime">
 		<station id="g0001">
 			<title>Kawaii</title>
-			<tag>anime jpop game</tag>
 			<cover></cover>
-			<type>1</type>
-			<url>http://67.213.222.13:9000/;stream.nsv</url>
+			<url>http://listen.radionomy.com/kawaiiradio</url>
 		</station>
 		<station id="g0002">
 			<title>AnimeNfo Radio</title>
-			<tag>Anime jpop jrock game</tag>
 			<cover></cover>
-			<type>1</type>
-			<url>http://204.15.225.50:8000/;stream.nsv</url>
-		</station>
-		<station id="g0003">
-			<title>Anime Academy</title>
-			<tag>Anime Asain Jpop Kpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://91.121.80.81:8500/;stream.nsv</url>
-		</station>
-		<station id="g0004">
-			<title>AnimeAMAZE</title>
-			<tag>anime jpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://64.191.5.133:17026/;stream.nsv</url>
-		</station>
-		<station id="g0005">
-			<title>XAMFM</title>
-			<tag>anime jpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://193.239.120.53:9500/;stream.nsv</url>
+			<url>http://69.60.255.236:8000/</url>
 		</station>
 		<station id="g0006">
 			<title>Keiichi</title>
-			<tag>anime jpop</tag>
 			<cover></cover>
-			<type>1</type>
-			<url>http://sc5.myshoutserver.com:8000/;stream.nsv</url>
-		</station>
-		<station id="g0007">
-			<title>Aisuki.fr</title>
-			<tag>anime jpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.95.111:8000/;stream.nsv</url>
-		</station>
-		<station id="g0008">
-			<title>Dreamo FM</title>
-			<tag>anime jpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://117.16.47.10:8000/;stream.nsv</url>
-		</station>
-		<station id="g0009">
-			<title>Asuka's Anime</title>
-			<tag>Anime</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://117.16.47.10:8000/;stream.nsv</url>
-		</station>
-		<station id="g0010">
-			<title>Russian Anime</title>
-			<tag>anime jpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://89.108.84.216:8000/;stream.nsv</url>
-		</station>
-		<station id="g0012">
-			<title>JPHiP Radio</title>
-			<tag>anime jpop</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://85.17.226.203:8800/;stream.nsv</url>
+			<url>http://sc1.mystreamserver.com:8038</url>
 		</station>
 	</group>
 	<group id="classic" title="Classic">
