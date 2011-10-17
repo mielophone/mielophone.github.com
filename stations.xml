@@ -176,145 +176,50 @@
 		</station>
 	</group>
 	<group id="rock" title="Rock">
-		<station id="g7002">
-			<title>Idobi (USA)</title>
-			<tag> </tag>
-			<cover>http://www.idobi.com/2006/images/IRsticker.gif</cover>
-			<type>1</type>
-			<url>http://67.159.3.34:80/;stream.nsv</url>
-		</station>
 		<station id="g7003">
 			<title>Channel X</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://72.13.93.117:8070/;stream.nsv</url>
-		</station>
-		<station id="g7004">
-			<title>XRM (USA)</title>
-			<tag> </tag>
-			<cover>http://www.xrmradio.com/images/logo.gif</cover>
-			<type>1</type>
-			<url>http://213.251.181.115:4657/;stream.nsv</url>
 		</station>
 		<station id="g7005">
 			<title>The Planet</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-ntc-aa06.stream.aol.com:80/stream/1030</url>
 		</station>
 		<station id="g7006">
 			<title>Buzz</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-ntc-aa02.stream.aol.com:80/stream/1022</url>
 		</station>
 		<station id="g7007">
 			<title>Paradise</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-mtc-aa02.stream.aol.com:80/stream/1048</url>
 		</station>
 		<station id="g7009">
 			<title>Absolute Radio (UK)</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://85.159.184.42:80/;stream.nsv</url>
-		</station>
-		<station id="g7008">
-			<title>Wazee</title>	
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://208.113.210.24:8000/;stream.nsv</url>
-		</station>
-		<station id="g7010">
-			<title>Hifi Punk</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://207.226.88.71:8000/;stream.nsv</url>
-		</station>
-		<station id="g7011">
-			<title>Big R (USA)</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://66.90.121.5:10017/;stream.nsv</url>
-		</station>
-		<station id="g7012">
-			<title>WBCN 104.1 (Boston)</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://208.80.52.60:80/WBCNFMDIALUPCMP3</url>
 		</station>
 		<station id="g7013">
 			<title>ChroniX Aggression</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-mtc-aa01.stream.aol.com:80/stream/1039</url>
 		</station>
 		<station id="g7014">
 			<title>Musik.Extreme</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-ntc-aa04.stream.aol.com:80/stream/1052</url>
 		</station>
 		<station id="g7015">
 			<title>High Voltage</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://66.220.3.52:8035/;stream.nsv</url>
-		</station>
-		<station id="g7016">
-			<title>Rocky FM (Germany)</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://94.228.208.70:8020/;stream.nsv</url>
-		</station>
-		<station id="g7017">
-			<title>Play Rock UK</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://87.117.200.137:80/;stream.nsv</url>
-		</station>
-		<station id="g7018">
-			<title>The Eagle</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://216.155.137.148:8030/;stream.nsv</url>
 		</station>
 		<station id="g7019">
 			<title>Little Radio 87.9 (LA)</title>
-			<tag> </tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://205.188.215.229:8016/;stream.nsv</url>
-		</station>
-		<station id="g7020">
-			<title>1055 Rock (Greece)</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://85.17.56.54:8078/;stream.nsv</url>
-		</station>
-		<station id="g7021">
-			<title>CBC 3 (Canada)</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://208.43.0.155:8012/;stream.nsv</url>
 		</station>
 	</group>
 	<group id="anime" title="Anime">
