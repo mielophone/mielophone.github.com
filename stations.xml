@@ -139,10 +139,8 @@
 		</station>
 	 	<station id="ru001">
 			<title>Metro</title>
-			<tag>http://ware.catv.ext.ru:8137/radiostudio128.mp3</tag>
 			<cover>http://www.radiometro.ru/images/20185924.jpg</cover>
-			<type>0</type>
-			<url>http://www.surfmusic.de/radio-station/88-3-jia-fm</url>
+			<url>http://195.182.132.18:8230/</url>
 			<web></web>
 		</station>
 		<station id="ru043">
