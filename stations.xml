@@ -101,7 +101,7 @@
                <title>Soma FM - Sonic Universe</title>
                <cover>http://somafm.com/img/sonicuniverse120.jpg</cover>
                <web>http://somafm.com/</web>
-               <url>http://voxsc1.somafm.com:8600</url>
+               <url>http://ice.somafm.com/sonicuniverse</url>
           </station>
           <station id="dem016">
                <title>Soma FM - Tag's Trip</title>
