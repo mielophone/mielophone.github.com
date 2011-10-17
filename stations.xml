@@ -372,104 +372,25 @@
 		</station>
 	</group>
 	<group id="retro" title="Retro">
-		<station id="g1101">
-			<title>The 50s, 60s, 70s</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.13.57:7004/;stream.nsv</url>
-		</station>
 		<station id="g1102">
 			<title>All Hit 70s</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-ntc-aa03.stream.aol.com:80/stream/1076</url>
-		</station>
-		<station id="g1103">
-			<title>AWESOME 80'S</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://38.99.95.42:8000/;stream.nsv</url>
-		</station>
-		<station id="g1104">
-			<title>Star 90's</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://216.155.137.150:8012/;stream.nsv</url>
 		</station>
 		<station id="g1105">
 			<title>The 90's</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://216.218.159.151:8065/;stream.nsv</url>
-		</station>
-		<station id="g1106">
-			<title>Oldies104</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://205.188.215.228:8010/;stream.nsv</url>
-		</station>
-		<station id="g1107">
-			<title>Good Time Oldies</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://216.155.137.150:8046/;stream.nsv</url>
-		</station>
-		<station id="g1108">
-			<title>Beatles</title>
-			<tag>style</tag>
-			<cover>http://img523.imageshack.us/img523/9981/pbeatleslogo.jpg</cover>
-			<type>1</type>
-			<url>http://94.23.27.83:8232/;stream.nsv</url>
-			<web>http://www.beatlesradio.com/</web>
-		</station>
-		<station id="g1109">
-			<title>Radio Italia Anni 60</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://89.238.146.146:7980/;stream.nsv</url>
-		</station>
-		<station id="g1110">
-			<title>Radio Magdalena</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://91.121.117.158:8004/;stream.nsv</url>
 		</station>
 		<station id="g1111">
 			<title>Disco Dancer</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://music.sertolovo.ru:8000/retro</url>
 		</station>
 		<station id="g1112">
 			<title>Glam FM (UK)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://216.66.84.3:5050/;stream.nsv</url>
-		</station>
-		<station id="g1113">
-			<title>Memory Hits</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://87.230.82.13:8590/;stream.nsv</url>
-		</station>
-		<station id="g1114">
-			<title>Romantica FM</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://67.159.45.136:8926/;stream.nsv</url>
 		</station>
 	</group>
 	<group id="universities" title="Universities">
