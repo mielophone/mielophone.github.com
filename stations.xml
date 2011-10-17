@@ -347,86 +347,27 @@
 	<group id="latino" title="Latino">
 		<station id="g8001">
 			<title>Salsa</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://205.188.215.231:8010/;stream.nsv</url>
-		</station>
-		<station id="g8002">
-			<title>Merengue</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://68.195.3.139:8000/;stream.nsv</url>
-		</station>
-		<station id="g8003">
-			<title>Bachata</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://208.53.158.184:8002/;stream.nsv</url>
-		</station>
-		<station id="g8004">
-			<title>Fidelity 95.7</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://76.73.26.26:8126/;stream.nsv</url>
-		</station>
-		<station id="g8005">
-			<title>Suave</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://173.52.91.213:8010/;stream.nsv</url>
-		</station>
-		<station id="g8006">
-			<title>Tropical 100 Mix</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://173.52.91.213:8006/;stream.nsv</url>
 		</station>
 		<station id="g8007">
 			<title>Latino 99.5 (Spain)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://92.48.107.35:8000/;stream.nsv</url>
 		</station>
 		<station id="g8008">
 			<title>Rumba 99.9 (Peru)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type>
 			<url>http://67.212.166.178:8094/;stream.nsv</url>
-		</station>
-		<station id="g8009">
-			<title>Vallencumbia</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://173.52.94.11:8020/;stream.nsv</url>
 		</station>
 		<station id="g8010">
 			<title>Fuego 101.9</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type>
 			<url>http://201.234.249.35:8001/;stream.nsv</url>
-		</station>
-		<station id="g8011">
-			<title>Tejano FM</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://208.53.138.30:8130/;stream.nsv</url>
 		</station>
 		<station id="g8012">
 			<title>Tango 104.9 (Argentina)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>0</type>
 			<url>http://200.58.116.222:10580/;stream.nsv</url>
 		</station>
 	</group>
