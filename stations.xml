@@ -458,66 +458,18 @@
 	<group id="jazz" title="Jazz">
 		<station id="jz004">
 			<title>Modern Jazz</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://205.188.215.227:8008/;stream.nsv</url>
-		</station>
-		<station id="jz005">
-			<title>Jazz journal</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://91.121.170.138:8000/jazzjournal</url>
-			<size>2</size>
 		</station>
 		<station id="jz001">
 			<title>Swiss Jazz</title>
-			<tag></tag>
 			<cover></cover>
-			<type>0</type>
 			<url>http://stream-3.ssatr.ch/rsj/mp3</url>
-			<size>2</size>
-		</station>
-		<station id="jz002">
-			<title>DOLGOFF CAFE Radio</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://80.70.231.195:9060/live.mp3</url>
-			<size>2</size>
 		</station>
 		<station id="jz003">
 			<title>Nullwave Radio</title>
-			<tag></tag>
 			<cover></cover>
-			<type>0</type>
 			<url>http://nullwave.ru:8000/jazz</url>
-			<size>2</size>
-		</station>
-		<station id="jz006">
-			<title>Sky FM - Piano Jazz</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://88.191.69.43:7814/;stream.nsv</url>
-			<size>2</size>
-		</station>
-		<station id="jz007">
-			<title>Sky FM - Bosa Nova Jazz</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://94.232.114.240:6804/;stream.nsv</url>
-			<size>2</size>
-		</station>
-		<station id="jz008">
-			<title>Sky FM - DaTempo Lounge</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://88.191.69.69:7000/;stream.nsv</url>
-			<size>2</size>
 		</station>
 	</group>
 	<group id="misc" title="Misc">
