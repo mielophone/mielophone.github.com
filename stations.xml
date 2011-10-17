@@ -479,12 +479,6 @@
 			<web>http://pigradio.com/</web>
 			<url>http://s1.viastreaming.net:7480/;stream.nsv</url>
 		</station>
-		<station id="gl218">
-               		<title>Fire radio UK</title>
-               		<cover></cover>
-               		<web>http://www.fireradio.co.uk/</web>
-               		<url>http://wm9.spacialnet.com/fireradio1076</url>
-          	</station>
 		<station id="g1207">
 			<title>Kids Public Radio</title>
 			<cover></cover>
