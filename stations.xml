@@ -128,7 +128,7 @@
                <url>http://205.188.215.229:8008/;stream.nsv</url>
           </station>
 	</group>	
- 	<group id="russian" title="Russia">
+ 	<group id="russian" title="Russia and CIS">
  		<station id="ru044">
 			<title>4duk</title>
 			<tag></tag>
@@ -176,13 +176,6 @@
 		</station>
 	</group>
 	<group id="rock" title="Rock">
-		<station id="g7001">
-			<title>Alternative Rock</title>
-			<tag> </tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.69.42:8002/;stream.nsv</url>
-		</station>
 		<station id="g7002">
 			<title>Idobi (USA)</title>
 			<tag> </tag>
