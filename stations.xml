@@ -137,315 +137,37 @@
 			<url>http://radio.4duk.ru:80/;stream.nsv</url>
 			<web>http://4duk.ru</web>
 		</station>
-	 	<station id="ru001">
-			<title>Metro</title>
-			<cover>http://www.radiometro.ru/images/20185924.jpg</cover>
-			<url>http://195.182.132.18:8230/</url>
-			<web></web>
-		</station>
-		<station id="ru043">
-			<title>Betelgeuse</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<web>http://www.radio-betelgeuse.com/</web>
-			<url>http://81.176.237.126/100</url>
-		</station>
-		<station id="ru002">
-			<title>RECORD</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/record.jpg</cover>
-			<type>1</type>
-			<url>http://92.243.90.155:8000/rec128</url>
-			<web></web>
-		</station>
-		<station id="ru041">
-			<title>Record Radio - Pirate Station Radio</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://78.111.92.26:8400/;stream.nsv</url>
-		</station>
- 		<station id="ru042">
-			<title>Record Radion - Trancemission radio</title>
-			<tag></tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://78.111.92.26:8200/;stream.nsv</url>
-		</station>
-		<station id="ru003">
-			<title>Russian radio (Русское радио)</title>
-			<tag></tag>
-			<cover>http://92.243.64.178/images/russian.jpg</cover>
-			<type>1</type>
-			<url>http://92.243.64.178:8080/r64</url>
-			
-		</station>
-		<station id="ru004">
-			<title>Yu FM (Ю FM)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/ufm.jpg</cover>
-			<type>0</type>
-			<url>http://ware.catv.ext.ru:8000/radioyunost128.mp3</url>
-			<web></web>
-		</station>
-		<station id="ru005">
-			<title>Love (Moscow 106.6 FM)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/love.jpg</cover>
-			<url>http://stream.loveradio.ru:8000/loveradio_high.mp3</url>
-			<web></web>
-		</station>
-		<station id="ru006">
-			<title>Europa Plus (Moscow 106.2 FM)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/europa.jpg</cover>
-			<url>http://88.212.197.154:9000/europa64</url>
-			<web>http://www.europaplus.ru/</web>
-			<statusUrl>http://www.europaplus.ru/online/player.php</statusUrl>
-			<regExpresion>[\w\s'":.,?!]+ - [\w\s'":.,?!]+</regExpresion>
-		</station>
-		<station id="ru007">
-			<title>NRJ</title>
-			<tag></tag>
-			<cover>http://92.243.64.178/images/nrj.jpg</cover>
-			<type>0</type>
-			<url>http://92.243.90.155:8000/nrj</url>
-			<web></web>
-		</station>
-		<station id="ru008">
-			<title>Dfm</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/dfm.jpg</cover>
-			<url>http://w02-sw01.akadostream.ru:8000/dinamitfm128.mp3</url>
-			<web></web>
-		</station>
-		<station id="ru009">
-			<title>Megapolis (Мегаполис)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/megapolis.jpg</cover>
-			<type>0</type>
-			<url>http://92.243.64.178:8000/mgps</url>
-			<web></web>
-		</station>
 		<station id="ru010">
 			<title>Nashe radio (Наше радио)</title>
-			<tag></tag>
 			<cover>http://92.243.64.178/images/nashe.jpg</cover>
-			<type>1</type>
-			<speeds>
-				<speed type="192">http://mp3.nashe.ru:80/nashe-192</speed>	
-				<speed type="128">http://mp3.nashe.ru:80/nashe-128</speed>
-				<speed type="96">http://mp3.nashe.ru:80/nashe-96</speed>
-			</speeds>
 			<web>http://nashe.ru/</web>
 			<url>http://mp3.nashe.ru:80/nashe-128</url>
 		</station>
-		<station id="ru011">
-			<title>Monte Carlo</title>
-			<tag> </tag>
-			<cover>http://www.montecarlo.ru/upload/images/radio_top1.jpg</cover>
-			<type>0</type>
-			<url>http://194.154.88.2:8001/rmcspb</url>
-		</station>
-		<station id="ru012">
-			<title>Radio Dacha (Радио Дача)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/dacha.jpg</cover>
-			<type>0</type>
-			<url>http://82.204.217.140:8000/radiodacha_high.mp3</url>
-		</station>
 		<station id="ru013">
 			<title>Ultra</title>
-			<tag></tag>
 			<cover>http://92.243.64.178/images/ultra.jpg</cover>
-			<speeds>
-				<speed type="192">http://mp3.radioultra.ru/ultra-192</speed>
-				<speed type="128">http://mp3.radioultra.ru/ultra-128</speed>
-				<speed type="96">http://mp3.radioultra.ru/ultra-96</speed>
-			</speeds>
 			<web>http://www.radioultra.ru/</web>
 			<url>http://mp3.radioultra.ru/ultra-192</url>
 		</station>
-		<station id="ru014">
-			<title>Roks</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/roks.jpg</cover>
-			<type>0</type>
-			<url>http://213.159.71.19:8000/128.mp3</url>
-		</station>	
-		<station id="ru015">
-			<title>Best FM</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/bestfm.jpg</cover>
-			<type>0</type>
-			<url>http://ware.catv.ext.ru:8140/bestfm128.mp3</url>
-		</station>
-		<station id="ru016">
-			<title>Radio Moscow echo (Эхо Москвы)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/echo.jpg</cover>
-			<type>0</type>
-			<url>http://radio.echo.msk.ru:8000/;stream.nsv</url>
-		</station>
-		<station id="ru017">
-			<title>Dorozhnoe (Дорожное)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/dorozhnoe.jpg</cover>
-			<type>0</type>
-			<url>http://217.170.67.77/dorojnoe</url>
-		</station>
-		<station id="ru018">
-			<title>Shanson (Шансон)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/shanson.jpg</cover>
-			<type>0</type>
-			<url>http://83.222.4.42:8880/;stream.nsv</url>
-		</station>
-		<station id="ru019">
-			<title>Retro FM (Ретро FM)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/retrofm.jpg</cover>
-			<type>0</type>
-			<url>http://ware.catv.ext.ru:8000/radioretro48.mp3</url>
-		</station>
-		<station id="ru021">
-			<title>Nevskaya volna (Невская волна)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/nevskaya.jpg</cover>
-			<type>0</type>
-			<url>http://ware.catv.ext.ru:8137/radionw128.mp3</url>
-		</station>
 		<station id="ru022">
 			<title>Radio Hit (Радио Хит)</title>
-			<tag> </tag>
 			<cover>http://92.243.64.178/images/hit.jpg</cover>
-			<type>0</type>
 			<url>http://217.170.67.77/radiohit</url>
-		</station>
-		<station id="ru023">
-			<title>Eldorado (Эльдорадо)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/eldoradio.jpg</cover>
-			<type>0</type>
-			<url>http://88.212.197.154:9000/eldoradio64</url>
-		</station>
-		<station id="ru024">
-			<title>Radio Vanya (Радио Ваня)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/vanya.jpg</cover>
-			<type>0</type>
-			<url>http://online.radiovanya.ru/radiovanya</url>
-		</station>
-		<station id="ru025">
-			<title>Orfey (Орфей)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/orfey.jpg</cover>
-			<type>0</type>
-			<url>http://w02-sw01.akadostream.ru:8000/orfey128.mp3</url>
 		</station>
 		<station id="ru026">
 			<title>L-RADIO</title>
-			<tag> </tag>
 			<cover>http://92.243.64.178/images/lradio.jpg</cover>
-			<type>0</type>
 			<url>http://77.233.175.58:8000/lradio.stereo.96.mp3</url>
-		</station>
-		<station id="ru027">
-			<title>Keks FM (Кекс FM)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/keks.jpg</cover>
-			<type>0</type>
-			<url>http://88.212.197.154:9000/keks64</url>
-		</station>
-		<station id="ru039">
-			<title>Radio Sport (Радио Спорт)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/sport.jpg</cover>
-			<type>0</type>
-			<url>http://213.79.118.22:8000/sportfm-128</url>
-		</station>
-		<station id="ru038">
-			<title>Radio Hermitage (Радио Эрмитаж)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/hermitage.jpg</cover>
-			<type>0</type>
-			<web>http://www.rhfm.ru/</web>
-			<speeds>
-				<speed type="64">http://91.190.117.131:8000/64</speed>
-				<speed type="128">http://91.190.117.131:8000/live</speed>
-			</speeds>
-			<url>http://91.190.117.131:8000/live</url>
-		</station>
-		<station id="ru029">
-			<title>Xfm</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/xfm.jpg</cover>
-			<type>0</type>
-			<url>http://82.204.217.140:8000/mradio_high.mp3</url>
-		</station>
-		<station id="ru028">
-			<title>Radio Silver rain (Радио Серебряный дождь)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/silverrain.jpg</cover>
-			<type>0</type>
-			<url>http://195.14.58.6:8000/radio.mp3</url>
 		</station>
 		<station id="ru031">
 			<title>Manhattan 102.5</title>
-			<tag> </tag>
 			<cover>http://92.243.64.178/images/manhattan.jpg</cover>
-			<type>0</type>
 			<url>http://81.30.54.70:8000/manhattan</url>
-		</station>
-		<station id="ru032">
-			<title>Uniton (Юнитон)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/uniton.jpg</cover>
-			<type>0</type>
-			<url>http://w02-sw01.akadostream.ru:8108/uniton128.mp3</url>
-		</station>
-		<station id="ru033">
-			<title>Radio Siberia (Радио Сибирь)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/sibir.jpg</cover>
-			<type>1</type>
-			<url>http://213.183.101.101:8090/modem</url>
-		</station>
-		<station id="ru034">
-			<title>Inter Volna (Интер Волна)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/intervolna.jpg</cover>
-			<type>0</type>
-			<url>http://195.69.218.228:8000/;stream.nsv</url>
 		</station>
 		<station id="ru036">
 			<title>Radio Ok</title>
-			<tag> </tag>
 			<cover>http://92.243.64.178/images/radiook.jpg</cover>
-			<type>0</type>
 			<url>http://78.31.72.218:8000/OKradio128.mp3</url>
-		</station>
-		<station id="ru035">
-			<title>Eco-radio (Эко-радио)</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/ecoradio.jpg</cover>
-			<type>0</type>
-			<url>http://80.64.18.105:8000/;stream.nsv</url>
-		</station>
-		<station id="ru030">
-			<title>Borneo</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/borneo.jpg</cover>
-			<type>0</type>
-			<url>http://91.203.224.6:8888/64</url>
-		</station>
-		<station id="ru040">
-			<title>Govorit Moskva</title>
-			<tag> </tag>
-			<cover>http://92.243.64.178/images/govoritmoskva.jpg</cover>
-			<type>0</type>
-			<url>http://213.79.118.22:8000/gm-fm-128</url>
 		</station>
 	</group>
 	<group id="ua" title="Ukraine">
