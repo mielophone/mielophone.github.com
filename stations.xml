@@ -475,121 +475,38 @@
 	<group id="misc" title="Misc">
 		<station id="g1298">
 			<title>PIG Radio</title>
-			<tag>style</tag>
 			<cover></cover>
 			<web>http://pigradio.com/</web>
 			<url>http://s1.viastreaming.net:7480/;stream.nsv</url>
 		</station>
-		<station id="g1299">
-			<title>Lepro FM</title>
-			<tag>style</tag>
-			<cover>http://img200.imageshack.us/img200/4034/lepraapng.png</cover>
-			<web>http://leprofm.ru/</web>
-			<url>http://leprofm.ru:8000/listen</url>			
-			<statusUrl>http://leprofm.ru/status.php</statusUrl>
-			<regExpresion>[\w %\(\)'".,:]+ - [\w %\(\)'".,:]+</regExpresion>
-		</station>
-		<station id="g1204">
-			<title>Simply Soundtracks</title>
-			<tag>style</tag>
-			<cover></cover>
-			<url>http://94.232.114.240:6774/;stream.nsv</url>
-		</station>
-		<station id="g1205">
-			<title>DisneyWeb</title>
-			<tag>style</tag>
-			<cover></cover>
-			<url>http://89.159.134.112:8000/;stream.nsv</url>
-		</station>
-		<station id="g1206">
-			<title>Fantasy Station</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://88.191.69.10:8003/;stream.nsv</url>
-		</station>
 		<station id="g1207">
 			<title>Kids Public Radio</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://www.kidspublicradio.org:8000/lullaby</url>
 		</station>
 		<station id="g1208">
 			<title>Roots Reggae</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://scfire-mtc-aa03.stream.aol.com:80/stream/1017</url>
-		</station>
-		<station id="g1209">
-			<title>Folk</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://216.127.92.235:8080/;stream.nsv</url>
 		</station>
 		<station id="g1210">
 			<title>Big Blue Swing</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://72.232.180.75:8002/;stream.nsv</url>
-		</station>
-		<station id="g1211">
-			<title>Blues Classics</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://208.53.158.28:11610/;stream.nsv</url>
-		</station>
-		<station id="g1212">
-			<title>Rock-n-Roll FM</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://scfire-mtc-aa01.stream.aol.com:80/stream/1043</url>
 		</station>
 		<station id="g1213">
 			<title>LuxuriaMusic</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://64.62.252.136:3142/;stream.nsv</url>
 		</station>
 		<station id="g1214">
 			<title>Urban Gospel</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://72.13.81.178:7010/;stream.nsv</url>
-		</station>
-		<station id="g1215">
-			<title>Classic Soul</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>1</type>
-			<url>http://216.155.131.180:8052/;stream.nsv</url>
-		</station>
-		<station id="g1216">
-			<title>Fox News</title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://69.28.128.148:80/stream/foxnews_live</url>
-		</station>
-		<station id="g1219">
-			<title>Deutsche Welle </title>
-			<tag>style</tag>
-			<cover></cover>
-			<type>0</type>
-			<url>http://c13010-ls.i.core.cdn.streamfarm.net/dwworldlive-live/13010dwrru64.mp3</url>
 		</station>
 		<station id="g1217">
 			<title>Radio GAS (Радио ГАЗ)</title>
-			<tag>style</tag>
 			<cover></cover>
-			<type>1</type>
 			<url>http://89.111.189.3:6220/;stream.nsv</url>
 		</station>
 	</group>
