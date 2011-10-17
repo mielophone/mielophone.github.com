@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.11</versionNumber>
-  <versionLabel>v0.1.11</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.11.air</url>
-  <description><![CDATA[v0.1.11
+  <versionNumber>0.1.12</versionNumber>
+  <versionLabel>v0.1.12</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.12.air</url>
+  <description><![CDATA[v0.1.12
   * Added Radio section with lots of Internet radio streams
   * Added minimize to tray ability
   * Added context menu with delete command to playlist items
   * Fixed playback stucks before end of song
   * + search fix :E
+  * + small ui fixes >_>
   ]]></description>
 </update>
