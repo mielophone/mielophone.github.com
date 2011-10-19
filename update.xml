@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.1.13</versionNumber>
-  <versionLabel>v0.1.13</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.13.air</url>
-  <description><![CDATA[v0.1.13
-  * Added Extension system
+  <versionNumber>0.1.14</versionNumber>
+  <versionLabel>v0.1.14</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.1.14.air</url>
+  <description><![CDATA[v0.1.14
+  * New navigation UI
+  * Added button to play radio from URL
   * Small bug fixes
   ]]></description>
 </update>
