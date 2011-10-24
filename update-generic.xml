@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.2.0</versionNumber>
-  <versionLabel>v0.2.0</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.2.0.air</url>
-  <description><![CDATA[v0.2.0
-  * New player UI
-  * Simple support of media hotkeys (+ spacebar for pause toggle)
-  * Cleanup of home page
-  * Images optimizations
+  <versionNumber>0.2.1</versionNumber>
+  <versionLabel>v0.2.1</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_generic_v0.2.1.air</url>
+  <description><![CDATA[v0.2.1
+  * Tracks without mp3s now faded in playlist
+  * Player volume now also controls radio volume
+  * Spacebar no longer toggles pause while using search
   * Small bugfixes
   ]]></description>
 </update>
