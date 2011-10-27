@@ -510,4 +510,11 @@
 			<url>http://89.111.189.3:6220/;stream.nsv</url>
 		</station>
 	</group>
+	<group id="talk" title="Talk">
+		<station id="t1">
+			<title>InfoWars</title>
+			<cover></cover>
+			<url>http://freespeech.ic.llnwd.net/stream/freespeech_thealexjonesshow32k</url>
+		</station>
+	</group>
  </stations>	
