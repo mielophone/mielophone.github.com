@@ -169,10 +169,22 @@
 			<cover>http://92.243.64.178/images/radiook.jpg</cover>
 			<url>http://78.31.72.218:8000/OKradio128.mp3</url>
 		</station>
-		<station id="ua005">
+		<station id="ua001">
 			<title>Gala</title>
 			<cover>http://92.243.64.178/images/gala.jpg</cover>
 			<url>http://live.galaradio.com:8000/kiev</url>
+		</station>
+		<station id="ua002">
+			<title>Music Radio</title>
+			<cover>http://www.musicradio.kiev.ua/i/music-radio.png</cover>
+			<web>http://musicradio.kiev.ua</web>
+			<url>http://play.musicradio.kiev.ua:8080/listen128</url>
+		</station>
+		<station id="ua003">
+			<title>Radiolla</title>
+			<cover>http://radiolla.com/style/logo/grey.png</cover>
+			<web>http://radiolla.com/</web>
+			<url>http://air.radiolla.com/radiolla.192k.mp3</url>
 		</station>
 	</group>
 	<group id="rock" title="Rock">
