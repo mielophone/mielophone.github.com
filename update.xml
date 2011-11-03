@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-  <versionNumber>0.2.3</versionNumber>
-  <versionLabel>v0.2.3</versionLabel>
-  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.2.3.air</url>
-  <description><![CDATA[v0.2.3
-  * Added playlists functionality (reorder by drag'n'drop, save, load)
+  <versionNumber>0.3.0</versionNumber>
+  <versionLabel>v0.3.0</versionLabel>
+  <url>https://github.com/downloads/mielophone/Mielophone/Mielophone_v0.3.0.air</url>
+  <description><![CDATA[v0.3.0
+  * Added facebook integration
+  * Added progressive song search (gapless playback)
+  * Volume is now saved when changing radio stations
+  * Songs now correctly started when press "Play All" button
   * Small bugfixes
   ]]></description>
 </update>
