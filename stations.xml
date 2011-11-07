@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
  <stations>
-	<group id="byPopularDemand" title="Popuplar">
+	<group id="byPopularDemand" title="Popular">
 		<station id="dem021">
                <title>Станция 2.0</title>
                <cover>http://station20.ru/img/logo.gif</cover>
