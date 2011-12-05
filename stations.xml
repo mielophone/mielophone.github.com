@@ -186,7 +186,13 @@
 			<web>http://radiolla.com/</web>
 			<url>http://air.radiolla.com/radiolla.192k.mp3</url>
 		</station>
-	</group>
+		<station id="ru037">
+			<title>ХИТрое радио</title>
+			<cover>http://www.hitroe.com/media/images/logo.jpg</cover>
+			<web>http://www.hitroe.com/</web>
+			<url>http://www.hitroe.com:8000/stream_original</url>
+		</station>
+</group>
 	<group id="rock" title="Rock">
 		<station id="g7003">
 			<title>Channel X</title>
