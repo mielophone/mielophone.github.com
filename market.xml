@@ -20,4 +20,8 @@
 			author="yamalight" 
 			url="https://github.com/downloads/mielophone/Mielophone-Vkontakte-Plugin/VkontaktePlugin.swf" 
 			description="Plugin that searches Vk.com for mp3s using official API. REQUIRES VK.COM ACCOUNT"/>
+	<plugin name="Ololofm MP3 Search" 
+			author="mielofan" 
+			url="https://github.com/downloads/mielofan/Mielophone-Ololofm-Plugin/OlolofmPlugin.swf" 
+			description="Plugin that searches ololo.fm for mp3s"/>		
 </market>
